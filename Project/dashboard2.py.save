@@ -1,0 +1,56 @@
+import dash
+import dash_core_components as dcc
+import dash_html_components as html
+from dash.dependencies import Output, Input
+import plotly.graph_objs as go
+import subprocess
+import time
+
+app = dash.Dash(__name__)
+
+# Define the layout of the dashboard
+app.layout = html.Div(
+    [
+        html.H1("My Dashboard"),
+        html.Div(id='my-div')
+        dcc.Graph(id='my-graph'),
+        dcc.Interval(
+            id='interval-component',
+            interval=5*60*1000, # update every 5 minutes
+            n_intervals=0
+        ),
+    ]
+)
+
+# Define the callback function to update the dashboard every 5 minutes
+@app.callback(
+    [Output('my-div', 'children'),
+     Output('my-graph', 'figure')],
+    [Input('interval-component', 'n_intervals')]
+)
+def update_dashboard(n):
+    # Run the scraper script to get the latest data
+    subprocess.run(['./scraper.sh'])
+
+    # Read the data from the output file
+    with open('output.txt', 'r') as f:
+        data = f.read()
+
+    # Parse the data to extract the relevant information
+    # Replace the following lines with your own code to parse the data
+    value = time.time()
+    title = f"Latest Data ({value})"
+    x = [1, 2, 3, 4, 5]
+    y = [1, 4, 2, 3, 5]
+
+    # Create a Plotly graph to display the data
+    fig = go.Figure(
+        data=[go.Scatter(x=x, y=y)],
+        layout=go.Layout(title=title)
+    )
+
+    # Return the updated dashboard components
+    return f"Latest data: {value}", fig
+
+if __name__ == '__main__':
+    app.run_server(debug=True)
