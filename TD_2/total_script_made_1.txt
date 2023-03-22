@@ -1,0 +1,452 @@
+    1  ls
+    2  ls -a
+    3  whoami
+    4  ls -ltrh
+    5  ls
+    6  ls -a
+    7  exit
+    8  ls -ltrh
+    9  ls -a
+   10  cd .profile
+   11  git config
+   12  mkdir TD_1
+   13  mkdir TD_2
+   14  mkdir TD_3
+   15  mkdir TD_4
+   16  mkdir TD_5
+   17  ls -a
+   18  ls -ltrh
+   19  sudo upgrade apt
+   20  upgrade apt
+   21  sudo apt-get update
+   22  sudo apt-get install emacs
+   23  sudo apt install git
+   24  sudo apt install cmatrix
+   25  sudo apt install tmux
+   26  ls
+   27  ls -a
+   28  ls -ltrh
+   29  ls -l
+   30  cd TD_1
+   31  emacs test
+   32  cat test
+   33  bash test
+   34  ls -l
+   35  pwd
+   36  cd /
+   37  ls
+   38  mkdir test
+   39  cd home
+   40  ls
+   41  whoami
+   42  cd
+   43  whoami
+   44  cd ..
+   45  cd
+   46  pwd
+   47  mkdir test
+   48  ls -l
+   49  rmdir test
+   50  cd TD_1
+   51  mkdir TD1_1
+   52  mkdir TD1_2
+   53  ls -l
+   54  chmod 644 test
+   55  ls -l
+   56  chmod 600 test
+   57  bash test
+   58  ls -l
+   59  ls -ltrh
+   60  cd ..
+   61  cd TD_2
+   62  mkdir TD2_1
+   63  mkdir TD2_2
+   64  mkdir TD2_3
+   65  cd ..
+   66  cd TD_1
+   67  cd TD1_1
+   68  mkdir linux_ex_1
+   69  cd linux_ex_1
+   70  touch Mourad_Sylla.txt
+   71  ls -l
+   72  groups
+   73  cd
+   74  ls -ltrh
+   75  cd TD_1
+   76  ls -l
+   77  TD1_1
+   78  cd TD1_1
+   79  mv test 
+   80  mv --help
+   81  ls
+   82  cd linux_ex_1
+   83  mkdir notes
+   84  cd notes
+   85  touch fichier.txxt
+   86  cd ../
+   87  emacs
+   88  emacs script_1.sh
+   89  ls -l
+   90  car script_1.sh
+   91  cat script_1.sh
+   92  bash script_1.sh
+   93  ./script_1.sh
+   94  ls -l
+   95  chmod 744 script_1.sh
+   96  ls -l
+   97  ./script_1.sh
+   98  emacs credentials
+   99  ls -l
+  100  cat credentials
+  101  bash credentials
+  102  more credentials
+  103  ls -l
+  104  chmod 644 credientials
+  105  chmod 644 credentials
+  106  ls -l
+  107  chmod 744 credentials
+  108  ls l-
+  109  ls -l
+  110  chmod 777 credentials
+  111  ls -l
+  112  cat .private file
+  113  cd ..
+  114  cd /
+  115  sudo emacs .private_file
+  116  cat .private_file
+  117  ls - ltrha
+  118  ls -ltrha
+  119  sudo chmod 777 .private_file
+  120  ls -ltrha
+  121  cmatrix
+  122  curl -s https://stockx.com/fr-fr/nike-sb-dunk-low-ebay-sandy-boedecker | grep -oE 'lowest ask\$[0-9,]+' | cut -c 12-
+  123  curl -s https://stockx.com/fr-fr/nike-sb-dunk-low-ebay-sandy-boedecker | grep -oE 'lowest ask\$[0-9,]+' | cut -c 12- > DunkL_Lowest_ask_price
+  124  emac DunkL_Lowest_ask_price
+  125  nano DunkL_Lowest_ask_price
+  126  ls
+  127  mkdir Project
+  128  ls
+  129  rm DunkL_Lowest_ask_price
+  130  ls
+  131  cd Project
+  132  curl -s https://stockx.com/fr-fr/nike-sb-dunk-low-ebay-sandy-boedecker | grep -oE 'lowest ask\$[0-9,]+' | cut -c 12- > DKL_LaskPrice.txt
+  133  nano DKL_LaskPrice.txt
+  134  cat DKL_LaskPrice.txt
+  135  curl -s https://stockx.com/fr-fr/nike-sb-dunk-low-ebay-sandy-boedecker > DKL_StockX.txt
+  136  nano DKL_StockX.txt
+  137  curl -s https://www.coingecko.com/en/coins/bitcoin | sed -n 's/.*class="no-wrap text-lg font-bold" data-coin-price="\(.*\)".*/\1/p' > coin_gecko_bitcoin.txt
+  138  nano coin_gecko_bitcoin.txt
+  139  rm coin_gecko_bitcoin.txt
+  140  curl -s https://www.coingecko.com/en/coins/bitcoin > coingecko_BC.txt
+  141  nano coingecko_BC.txt
+  142  nano DKL_StockX.txt
+  143  curl -s https://moning.co/stocks/AAPL.US > Moning_AAPL.txt
+  144  nano Moning_AAPL.txt
+  145  curl -s https://moning.co/stocks/AAPL.US | grep -oE '<div class="series-price">[0-9]+\.[0-9]+ \$</div>' | sed -e 's/<[^>]*>//g' -e 's/\$//g'
+  146  curl -s https://moning.co/stocks/AAPL.US | grep -oE '<div class="series-price">[0-9]+\.[0-9]+ \$</div>' | sed -e 's/<[^>]*>//g' -e 's/\$//g' | awk '$0 >= "2012-03-05"'
+  147  cat Moning_AAPL.txt | grep -A1 -m1 'Price over 10 years' | tail -n1 | sed 's/^ *//;s/ *$//'
+  148  cat Moning_AAPL.txt | grep -A1 -m1 'Price over 10 years' 
+  149  cat Moning_AAPL.txt | grep -o -m1 "<title>.*</title>" | sed 's/<title>\(.*\)<\/title>/\1/'
+  150  curl -s https://moning.co/stocks/AAPL.US | grep -oE 'data-graph="[^"]+"' | sed -e 's/data-graph="//' -e 's/"$//' | base64 -d | grep -oE '"c":([0-9]+\.[0-9]+)' | sed -e 's/"c"://'
+  151  curl -s https://moning.co/stocks/AAPL.US | grep -oE 'data-graph="[^"]+"'
+  152  curl -s https://moning.co/stocks/AAPL.US | grep -oE 'data-graph="[^"]+"' | sed -e 's/data-graph="//' -e 's/"$//' | base64 -d | grep -oE '{"x":"[^"]+","y":"[^"]+"}' | sed -e 's/{"x":"\([^"]*\)","y":"\([^"]*\)"}/Date : "\1"; Price : "\2"/'
+  153  curl -s https://moning.co/stocks/AAPL.US | grep -oE 'data-graph="[^"]+"' | grep -oE '{"x":"[^"]+","y":"[^"]+"}' | sed -e 's/{"x":"\([^"]*\)","y":"\([^"]*\)"}/Date : "\1"; Price : "\2"/'
+  154  curl -s https://moning.co/stocks/AAPL.US | grep -oE 'data-graph="[^"]+"' | sed -e 's/data-graph="//' -e 's/"$//' | base64 -d | grep -oE '{"x":"[^"]+","y":"[^"]+"}' | sed -e 's/{"x":"\([^"]*\)","y":"\([^"]*\)"}/Date : "\1"\nPrice : "\2"/'
+  155  curl -s https://moning.co/stocks/AAPL.US | grep -oE 'data-graph="[^"]+"' | sed -e 's/data-graph="//' -e 's/"$//' | grep -oE '{"x":"[^"]+","y":"[^"]+"}' | sed -e 's/{"x":"\([^"]*\)","y":"\([^"]*\)"}/Date : "\1"\nPrice : "\2"/'
+  156  curl -s https://moning.co/stocks/AAPL.US | grep -oE '{"x":"[^"]+","y":"[^"]+"}' | sed -e 's/{"x":"\([^"]*\)","y":"\([^"]*\)"}/Date : "\1"; Price : "\2"/'
+  157  curl -s https://moning.co/stocks/AAPL.US | grep -oE '{&quot;x&quot;:&quot;[^&quot;]+&quot;,&quot;y&quot;}:&quot;}[^&quot;}]+&quot;}' | sed -e 's/{"x":"\([^"]*\)","y":"\([^"]*\)"}/Date : "\1"; Price : "\2"/'
+  158  curl -s https://moning.co/stocks/AAPL.US | pup 'canvas#priceChart'
+  159  curl -s https://moning.co/stocks/AAPL.US | grep -oE 'canvas id="priceChart"[^>]+>' | sed -e 's/.*var data = //' -e 's/;.*$//' | jq '.data[] | [.t,.c]' | sed -e 's/^\[//' -e 's/\]$//' -e 's/,/;/g'
+  160  curl -s https://moning.co/stocks/AAPL.US | grep -oE 'canvas id="priceChart"[^>]+>' 
+  161  curl -s https://moning.co/stocks/AAPL.US | grep -oE 'canvas id="priceChart"[^>]+>' > Moning_AAPL_Prices.txt
+  162  ls 
+  163  Moning_AAPL_Prices.txt | sed -e 's/.*var data = //' -e 's/;.*$//'
+  164  Moning_AAPL_Prices.txt | sed -e 's/^\[//' -e 's/\]$//' -e 's/,/;/g'
+  165  Moning_AAPL_Prices.txt |  sed 's/&quot;/"/g'
+  166  Moning_AAPL_Prices.txt | sed 's/&quot;/"/g'
+  167  Moning_AAPL_Prices.txt | sed 's/&quot;/"/g' | sed -e 's/.*var data = //' -e 's/;.*$//' | jq '.data[] | [.t,.c]' | sed -e 's/^\[//' -e 's/\]$//' -e 's/,/;/g'
+  168  Moning_AAPL_Prices.txt | sed -e 's/&quot;/"/g' | sed -e 's/.*var data = //' -e 's/;.*$//' | jq '.data[] | [.t,.c]' | sed -e 's/^\[//' -e 's/\]$//' -e 's/,/;/g' -e 's/"//g' | sed -e 's/Date/ "Date"/g' -e 's/Price/ "Price"/g'
+  169  sudo apt-get install python3-pip
+  170  sudo pip3 install virtualenv
+  171  virtualenv myenv
+  172  source myenv/bin/activate
+  173  pip install requests
+  174  pip install dash
+  175  ls -l
+  176  rm myenv
+  177  cd Project
+  178  ls
+  179  cd ..
+  180  -i "LightsailDefaultKey-eu-west-3.pem" admin@52.47.153.190 > VM_Mourad_Sylla
+  181  cd TD_1
+  182  ls
+  183  TD1_2
+  184  ls
+  185  cd TD1_2
+  186  ls
+  187  cat /etc/os-release
+  188  ps -ef
+  189  lscpu|grep cache
+  190  df -h
+  191  du -h
+  192  cat /proc/monts
+  193  cat /proc/mounts
+  194  dmesg | grep cache
+  195  dmesg | grep usb
+  196  hostname
+  197  emacs script_td2/9_ex1.txt
+  198  bash script_td2/9_ex1.txt
+  199  exit
+  200  cd TD_1
+  201  cd TD1_2
+  202  x = "piri pimpin"
+  203  x="piri pimpin"
+  204  $x
+  205  echo $x
+  206  x="$x piri pimpon"
+  207  echo $x
+  208  mkdir my_programs
+  209  ls
+  210  cs script_td2
+  211  cd script_td2
+  212  ls
+  213  ls -l
+  214  emacs 9_ex1.txt
+  215  rm 9_ex1.txt
+  216  cd ..
+  217  rm script_td2
+  218  rmdir script_td2
+  219  emacs script_TD2_9_ex1.txt
+  220  ls
+  221  cd my_programs
+  222  echo "echo pilou pilou" > pilou
+  223  bash pilou
+  224  ./pilou
+  225  chmod +x pilou
+  226  ./piloi
+  227  ./pilou
+  228  echo $PATH
+  229  export PATH=$PATH:$(pwd)
+  230  export PATH
+  231  cd ~
+  232  pilou
+  233  nano ~/.profile
+  234  export PATH=$PATH:/path/to/my_programs
+  235  emacs .profile
+  236  ls
+  237  emacs VM_Mourad_Sylla
+  238  rm VM_Mourad_Sylla
+  239  cd TD_1
+  240  cd TD1_2
+  241  nano say_hello.sh
+  242  ls
+  243  more say_hello.sh
+  244  chmod +x say_hello.sh
+  245  ./say_hello.sh
+  246  nano say_hello.sh
+  247  ./say_hello.sh
+  248  ls
+  249  date
+  250  crontab -e
+  251  crontab -l
+  252  PATH
+  253  echo $PATH
+  254  whoami
+  255  crontab -e
+  256  pwd
+  257  crontab -e
+  258  crontal -l
+  259  crontab -l
+  260  cat hello.txt
+  261  ls -l
+  262  cat hellos.txt
+  263  ./say_hellos.sh
+  264  ./say_hello.sh
+  265  bash hellos.txt
+  266  nano hellos.txt
+  267  crontab -e
+  268  cat hellos.txt
+  269  ls -l
+  270  mkdir hash_checksum
+  271  cd hash_checksum
+  272  touch .sensible_addresses .sensible_passwords
+  273  ls
+  274  ls -l
+  275  ls -a
+  276  echo "echo 'Have a good day'" > gentle_script.sh
+  277  sha256sum gentle_script.sh >log_sha
+  278  ls
+  279  cat log_sha
+  280  ./gentle_script.sh
+  281  rm .sensible*
+  282  sha256sum gentle_script.sh > log_sha
+  283  ./gentle_script.sh
+  284  cat log_sha
+  285  ls 
+  286  ls -a
+  287  nano script_TD2_9_ex4.txt
+  288  cd ..
+  289  cat log_sha
+  290  ls -a
+  291  sudo apt-get update
+  292  sudo apt_get install qpdf
+  293  sudo apt-get install qpdf
+  294  mkdit compress
+  295  mkdir compress
+  296  cd compress
+  297  echo "Hello" > hello
+  298  cat hello | zlib-flate -compress=1 > hello.z
+  299  cat hello.z
+  300  xH?~/TD1_2/compress>
+  301  pwd
+  302  xH?/home/admin/TD_1/TD1_2/compress/TD1_2/compress>
+  303  cat hello.z | zlib-flate -uncompress
+  304  Hello
+  305  ls -l hello >>log_compress
+  306  ls -l hello.z >>log_compress
+  307  cat log_compress
+  308  nano write_hellos.sh
+  309  more write_hellos.sh
+  310  wc -l hello_multiple
+  311  yes "Hello" | head -n 1000 > hello_multiple
+  312  nano hello_multiple
+  313  zlib-flate -1 < hello_multiple | wc -c >> log_compress
+  314  for i in {1..100}; do echo "Hello $i" >> hello_multiple_i; done
+  315  nano hello_multiple_i
+  316  zlib-flate -1 < hello_multiple_i | wc -c >> log_compress
+  317  cat log_compress | awk '{print $1/1000}' | xargs -I {} echo "{} :1"
+  318  cat hello_multiple | zlib-flate -compress=1 > hello_multiple.z
+  319  cat hello_multiple.z | zlib-flate -uncompress | tail
+  320  cat hello_multiple.z | zlib-flate -uncompress | wc -l
+  321  ls -l hello_multiple >>log_compress
+  322  ls -l hello_multiple.z >>log_compress
+  323  cat hello_multiple_i | zlib-flate -compress=1 > hello_multiple_i.z
+  324  cat hello_multiple_i.z | zlib-flate -uncompress | tail
+  325  cat hello_multiple_i.z | zlib-flate -uncompress | wc -l
+  326  cat log_compress
+  327  ls -l
+  328  sudo useradd -m client_1
+  329  sudo passwd client_1
+  330  sudo useradd -m client_2
+  331  sudo passwd client_2
+  332  cd ..
+  333  sudo useradd -m client_1
+  334  sudo passwd client_1
+  335  sudo useradd -m contributor_1
+  336  sudo passwd contributor_1
+  337  sudo useradd -m contributor_2
+  338  sudo passwd contributor_2
+  339  sudo groupadd clients
+  340  sudo groupadd contributors
+  341  sudo usermod -a -G clients client_1
+  342  sudo usermod -a -G contributors contributor_1
+  343  sudo usermod -a -G contributors contributor_2
+  344  getent passwd
+  345  getent group
+  346  mkdir lika_project
+  347  sudo chgrp clients lika_project
+  348  sudo chmod 750 lika_project
+  349  sudo setfacl -m g:clients:r lika_project
+  350  sudo setfacl -m g:contributors:rw lika_project
+  351  ls 
+  352  ls -l lika_project
+  353  su client_1
+  354  ls -ltrh
+  355  sudo usermod -a -G clients client_1
+  356  sudo usermod -a -G contributors contributor_1
+  357  sudo usermod -a -G contributors contributor_2
+  358  sudo usermod -a -G clients client_2
+  359  cd lika_project
+  360  echo "commands : useradd, groupadd, usermod, su, getent" >> script_TD2_9_ex6.txt
+  361  cat script_TD2_9_ex6.txt
+  362  cd ..
+  363  ls
+  364  cd TD_2
+  365  ls
+  366  cd TD2_1
+  367  cd ..
+  368  cd TD_2
+  369  ls
+  370  cd TD2_2
+  371  echo " ssh -i "LightsailDefaultKey-eu-west-3.pem" admin@52.47.153.190" >> login_ssh_AWS.txt
+  372  cat login_ssh_AWS
+  373  cat login_ssh_AWS.txt
+  374  nano login_ssh_AWS.txt
+  375  cd ~
+  376  ls -ltrh
+  377  cd .ssh
+  378  ls -ltrha
+  379  sudo chmod 744 authorized_keys
+  380  ls -a
+  381  ls -la
+  382  echo "LightsailDefaultKey-eu-west-3.pem" > id_rsa
+  383  ls -ltrha
+  384  cd ..
+  385  ls
+  386  echo " ssh -i "LightsailDefaultKey-eu-west-3.pem" admin@52.47.153.190" >> connect_ssh_AWS.sh
+  387  more connect_ssh_AWS.sh
+  388  chmod 744 connect_ssh_AWS.sh
+  389  ./connect_ssh_AWS.sh
+  390  logout
+  391  ls
+  392  cd TD_2
+  393  cd TD2_2
+  394  echo "COMMANDS: ssh admin@13.38.52.82      ./connect.sh        scp test admin@13.38.52.82:/home/admin         scp admin@13.38.52.82:/home/admin/distant_test_file .         ./scp_to_remote_instance.sh local_test_file /home/admin            ./scp_from_remote_instance.sh /home/admin distant_test_file " >> script_TD4_9.txt
+  395  nano script_TD4_9.txt
+  396  cd..
+  397  cd ..
+  398  cd TD2_3
+  399  curl -s COMMANDS:ssh admin@13.38.52.82./connect.shscp test admin@13.38.52.82:/home/adminscp admin@13.38.52.82:/home/admin/distant_test_file .
+  400  curl -s https ://opendomesday.org/api/1.0/manor/181/ > manor
+  401  nano manor
+  402  curl -s https ://opendomesday.org/api/1.0/manor/181/
+  403  curl -s https ://opendomesday.org/api/1.0/country/ | grep -oP '\{.*?\[.*?\]\}' | grep Derbyshire > derbyshire.json
+  404  curl -s https ://opendomesday.org/api/1.0/country/ | grep -oP '\{.*?\[.*?\]\}' | grep Derbyshire
+  405  curl -s https://opendomesday.org/api/1.0/manor/181/
+  406  curl -s https://opendomesday.org/api/1.0/manor/181/ > manor
+  407  curl -s https://opendomesday.org/api/1.0/country/ | grep -oP '\{.*?\[.*?\]\}' | grep Derbyshire > derbyshire.json
+  408  nano derbyshire.json
+  409  curl -s https://opendomesday.org/api/1.0/country/ | grep -oP '\{.*?\[.*?\]\}' | grep Derbyshire 
+  410  curl -s https://opendomesday.org/api/1.0/country/ | grep -oP '\{.*?\[.*?\]\}'
+  411  curl -s https://opendomesday.org/api/1.0/country/ 
+  412  curl -s https://opendomesday.org/api/1.0/country/ | grep -oP '\{.*?\[.*?\]\}'
+  413  curl -s https://opendomesday.org/api/1.0/country/| grep -oP '\{.*?\[.*?\]\}'
+  414  curl -s https://opendomesday.org/api/1.0/manor/181| grep -oP '\{.*?\[.*?\]\}'
+  415  curl -s https://opendomesday.org/api/1.0/manor/181/ | grep -oP '\{.*?\[.*?\]\}'
+  416  cd ..
+  417  cd TD2_1
+  418  ls
+  419  ls -a
+  420  curl https ://en.wikipedia.org/wiki/List_of_cyberattacks > cyberattacks.txt
+  421  grep meta cybertattacks
+  422  grep meta cybertattacks.txt
+  423  nano cyberattacks.txt
+  424  curl https://en.wikipedia.org/wiki/List_of_cyberattacks > cyberattacks.txt
+  425  nano cyberattacks.txt
+  426  grep meta cybertattacks.txt
+  427  nano cyberattacks.txt
+  428  grep meta cyberattacks.txt
+  429  echo 'cat cyberattacks.txt | grep -A1 '<meta charset="UTF-8"/>.*' | grep -v meta | grep -oP '>\K.*(?=<)'' > script_td3_9_ex2.sh
+  430  bash script_td3_9_ex2.sh
+  431  cat cyberattacks.txt | grep -A1 '<meta charset="UTF-8"/>.*' | grep -v meta | grep -oP '>\K.*(?=<)'
+  432  cat cyberattacks.txt | grep -A1 '<meta charset="UTF-8"/>.*' | grep -v meta | grep -oP '>\K.*(?=<)' > script_td3_9_ex2.sh
+  433  bash script_td3_9_ex2.sh
+  434  nano script_td3_9_ex2.sh
+  435  bash script_td3_9_ex2.sh
+  436  nano script_td3_9_ex2.sh
+  437  bash script_td3_9_ex2.sh
+  438  nano script_td3_9_ex2.sh
+  439  bash script_td3_9_ex2.sh
+  440  nano script_td3_9_ex2.sh
+  441  bash script_td3_9_ex2.sh
+  442  ls
+  443  cd ..
+  444  ls -l
+  445  ls -l TD2_1
+  446  ls -l TD2_2
+  447  ls -l TD2_3
+  448  cd TD2_3
+  449  history
+  450  cd ..
+  451  history_1 > total_script_made.txt
+  452  history > total_script_made_1.txt
