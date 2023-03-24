@@ -747,3 +747,98 @@ rm dashboard2.py
 cd Project
 rm dashboard2.py
 nano dashboard2.py
+ls
+Project
+cd Project
+lq
+ls
+./scaper.sh
+./scraper.sh
+ls
+nano scraper.sh
+nano scrape_data_test.sh
+nano scraper.sh
+nano scrape_data_test.sh
+nano scraper.sh
+nano scrape_data_test.sh
+chmod +x scrape_data_test.sh
+./scrape_data_test.sh
+nano scrape_data_test.sh
+nano scraper.sh
+nano scrape_data_test.sh
+nano scraper.sh
+nano scrape_data_test.sh
+./scrape_data_test.sh
+ls
+nano price_data.csv
+./scrape_data_test.sh
+cat price_data.csv
+rm price_data.csv
+nano scrape_data_test.sh
+./scrape_data_test.sh
+cat price_data.csv
+nano scrape_data_test.sh
+Project
+cd Project
+ls
+nano scrape_data_test.sh.save
+nano scrape_data_test.sh
+nano scrape_data_test.sh.save.1
+rm scrape_data_test.sh.save.1
+nano scrape_data_test.sh.save.2
+rm scrape_data_test.sh.save.2
+nano scrape_data_test.sh.save.3
+rm scrape_data_test.sh.save.3
+nano scrape_data_test.sh.save.4
+rm scrape_data_test.sh.save.4
+ls
+nano price_extraction.sh
+rm scrape_data_solana.sh
+rm scrape_data_test.sh.save
+ls
+nano scrape_data_test.sh
+nano scraper.sh
+nano dashboard2.py.save
+nano dashboard.py.save
+rm dashboard.py.save
+rm dashboard2.py.save
+ls
+nano dashboard.py
+crontab -e
+./scrape_data_test.sh
+nano price_data.csv
+sudo apt update
+sudo apt install python3 python3-pip
+pip3 install dash pandas
+ls
+rm dashboard.py
+nano dashboard.py
+ls
+chmod +x dashboard.py
+ls
+./dashboard.py
+nano price_data.csv
+./dashboard.py
+python3 dashboard.py
+pip3 install --user dash pandas
+python3 dashboard.py
+nano dashboard.py
+python3 dashboard.py
+nano dashboard.py
+python3 dashboard.py
+nano dashboard.py
+python3 dashboard.py
+nano dashboard.py
+python3 dashboard.py
+nano dashboard.py
+python3 dashboard.py
+sudo iptables -L
+sudo iptables -A INPUT -p tcp --dport 8050 -j ACCEPT
+sudo iptables -L
+python3 dashboard.py
+curl http://localhost:8050
+python3 dashboard.py
+curl http://localhost:8050
+sudo iptables -L
+sudo iptables -A INPUT -p tcp --dport 8050 -j ACCEPT
+sudo iptables -L
