@@ -13,7 +13,8 @@ Le dashboard est accéssible via le port 8050 et mon adresse IP suivante : http:
 ## MONERO (XMR) PRICES
 
 Pour le deuxieme je n'ai pas réussi à récuperer les données historiques, cependant j'ai pu avoir le prix à l'instant t.
-Ainsi au fur et à mesure que le scrapping s'exécute, le graph du Dash se met à jour car le Bash rempli les données du CSV. 
+Ainsi au fur et à mesure que le scrapping s'exécute chaque 5 minutes avec crontab, le graph du Dash se met à jour car le Bash rempli les données du CSV. 
+Le graph commence donc à partir du jour où le programme à été exécuté.
 voici le lien du site: https://www.coingecko.com/fr/pi%C3%A8ces/monero
 
 Le dashboard est accéssible via le port 8085 et mon adresse IP suivante : http://35.180.65.112:8085/
