@@ -1,0 +1,53 @@
+1691 sed 's/"//g' manors. json | sed -B 's/null/0.0/g' | sed -E 's/\(id: ([0-9]+),.*,geld: ([0-9\.]+),.*, totalploughs: ([0-9\.]+),.*/\1,\2,\3/g*
+
+1692 1s
+
+1693 Is -ltrh
+
+1694 sed 's/"//g' manors.json | sed -E 's/null/0.0/g' | sed -E 's/\(id: ([0-9]+),.*,geld: ([0-9\.]+),.*,totalploughs: ([0-9\.|+), 2,\3/g* > manors.csv
+
+1695 1s
+
+1696 history |grep scp
+
+1697 1s
+
+1698 cat manors.csv
+
+1699 awk -F"," '(print;x+=$2)END(print "Total " x)' manors.csv
+
+1700 awk -F"," 'Aprint;x+=$3)END(print "Total " x)' manors.csv
+
+1701 clear
+
+1702 1s
+
+1703 cd TD2_3/ 1704 1s
+
+1705 1s -ltrh
+
+1706 curl -S https://opendomesday.org/api/1.0/county/ | grep -OP "\.*?\[.*?\J\j' | grep Derbyshire
+
+1707 1s -ltrh
+
+1708 more derbyshire. json
+
+1709 Is -Itgh
+
+1710 more manors of Derbyshire.sh
+
+1711 1s -ltrh
+
+1712 more manors. json
+
+1713 Is -ltrh
+
+1714 sed 's/"//g' manors.json sed -E 's/null/0.0/g'| sed -E 's/\(id: ([0-9]+),.*,geld: ([0-9\.]+),.*,totalploughs: ([0-9\.¡+),.*/\1,\2,13/g'
+
+1715 sed 's/"//g' manors.json | sed -B 's/null/0.0/g' | sed -E 's/\(id: ([0-9]+),.*,geld: ([0-9\.]+),.*,totalploughs: ([0-9\. |+),.*/\1, \ (2, \3/g* > manors.csv 1716 more manors.csv
+
+1717 awk -F"," '(print;x+=$2)END(print "Total x)' manors.csv
+
+1718 awk -F"," '(print;x+=$3)END(print "Total " x]' manors.csv
+
+1719 history
