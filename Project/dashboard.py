@@ -7,6 +7,7 @@ data = pd.read_csv("price_data.csv")
 data.columns = ["date", "price"]
 
 app = Dash(__name__)
+server = app.server
 
 app.layout = html.Div(
     children=[
