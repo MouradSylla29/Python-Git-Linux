@@ -842,3 +842,211 @@ curl http://localhost:8050
 sudo iptables -L
 sudo iptables -A INPUT -p tcp --dport 8050 -j ACCEPT
 sudo iptables -L
+cd Project
+ls
+python3 dashboard.py
+nano scrape_monero.sh
+chmod +x scrape_monero.sh
+ls
+./scrape_monero.sh
+ls
+nano monero_prices.csv
+nano scrape_monero.sh
+sudo apt-get update
+sudo apt-get install jq
+rm monero_prices.csv
+./scrape_monero.sh
+nano monero_prices.csv
+ls
+pwd
+crontab -e
+nano scrape_monero.sh
+nano monero_prices.csv
+nano dashboard_monero.py
+chmod +x dashboard_monero.py
+python3 dashboard.py
+python3 dashboard_monero.py
+ls
+nano monero_prices.csv
+./scrape_monero.sh
+nano monero_prices.csv
+python3 dashboard_monero.py
+crontab -l
+ls
+grep -i cron /var/log/syslog
+/bin/bash /home/admin/Project/scrape_monero.sh
+/bin/bash /home/admin/Project/scrape_data_test.sh
+sudo systemctl restart cron
+nano monero_prices.csv
+ls
+nano price_data.csv
+python3 dashboard.py
+nano price_data.csv
+nano scrape_data_test.sh
+./scrape_data_test.sh
+nano price_data.csv
+python3 dashboard.py
+python3 das_monero.py
+nano scrape_monero.sh
+nano monero_prices.csv
+./scrape_monero.sh
+./
+./scrape_monero.sh
+python3 dashboard_monero.py
+ls
+git init
+git add .
+git commit -m "updates"
+git push -u origin main
+ls
+cat connect_ssh_AWS.txt
+echo "ssh -i "LightsailDefaultKey-eu-west-3.pem" admin@32.180.65.112" > connect_ssh_AWS.txt
+cat connect_ssh_AWS.txt
+cd Project
+./scrape_monero.sh
+nano monero_prices.csv
+python3 dashboard_monero.py
+cd ..
+ls
+cd TD_2
+cd TD2_3
+ls
+cat derbyshire.json
+nano derbyshire.json
+cd ~
+ls
+cd TD_3
+ls
+cd test_repository
+ls
+nano main.py
+nano function.py
+ls -a
+touch temp.ipynb
+git status
+echo "/temp.ipynb" >> .gitignore
+git status
+touch temp.aux temp.log
+git status
+echo "temp*" >> .gitignore
+git status
+echo ".private" >> .git/info/exclude
+echo "My repository description" >> readme.md
+git add readme.md
+git diff HEAD
+touch script_TD6/9.txt
+touch script_TD6_9.txt
+nano script_TD6_9.txt
+git commit -m "Add repository description to readme.md"
+git log -p -1
+git diff HEAD
+nano readme.md
+git diff HEAD
+echo "git commit -m "Add repository description to readme.md"
+[master 6823c55] Add repository description to readme.md
+ 1 file changed, 1 insertion(+)
+admin@ip-172-26-4-8:~/TD_3/test_repository$ git log -p -1
+commit 6823c55f25273ff2dbfe0e8b64165b24123e57aa (HEAD -> master)
+Author: Mourad Sylla <mourad.sylla@edu.devinci.fr>
+Date:   Sat Mar 25 00:03:24 2023 +0000
+
+    Add repository description to readme.md
+
+diff --git a/readme.md b/readme.md
+index 43616b9..c7f7271 100644
+--- a/readme.md
++++ b/readme.md
+@@ -1,2 +1,3 @@
+ # Test repository
+ Test 2
++My repository description
+admin@ip-172-26-4-8:~/TD_3/test_repository$ git diff HEAD
+diff --git a/.gitignore b/.gitignore
+index e69de29..a79c891 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -0,0 +1,2 @@
++/temp.ipynb
++temp*
+admin@ip-172-26-4-8:~/TD_3/test_repository$ nano readme.md
+admin@ip-172-26-4-8:~/TD_3/test_repository$ nano readme.md
+admin@ip-172-26-4-8:~/TD_3/test_repository$ git diff HEAD
+diff --git a/.gitignore b/.gitignore
+index e69de29..a79c891 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -0,0 +1,2 @@
++/temp.ipynb
++temp*
+diff --git a/readme.md b/readme.md
+index c7f7271..6cafb78 100644
+--- a/readme.md
++++ b/readme.md
+@@ -1,3 +1,4 @@
+ # Test repository
+ Test 2
+ My repository description
++changement test" >> script_TD6_9.txt
+nano readme.md
+nano script_TD6_9.txt
+git config --global alias.s status
+git config --global alias.co checkout
+git config --global alias.b branch
+git config --global alias.ci commit
+git config --global alias.dog "log --all --decorate --oneline --graph"
+git config --global alias.dag "log --all --decorate --graph"
+git config --global alias.list "diff-tree --no-commit-id --name-only -r"
+git config --global alias.unstage "reset HEAD --"
+git config --global alias.last "log -1 HEAD"
+nano script_TD6_9.txt
+mkdir root-dir
+cd root-dir
+echo "Hello World" > file.txt
+ls
+ls -lh file.txt
+cat file.txt
+sha1sum file.txt
+git hash-object file.txt
+echo -e "blob $(wc -c < file.txt)\0$(cat file.txt)" > git-file.txt
+sha1sum git-file.txt
+git hash-object file.txt
+cd root-dir
+git init
+git status
+ls .git/objects/
+mkdir .git/objects/<first-two-characters-of-hash>
+sudo apt-get install qpdf
+cd ~
+git add .
+git commit -m "update"
+git push -u origin main
+git s
+git log
+ls
+cat connect_github.txt
+cd TD_3
+ls
+cd test_repository
+ls
+pwd
+ls
+git push
+cd ~
+git add .
+git commit -m "update"
+git push
+cd TD_5
+ls
+cd Python-Git-Linux
+ls
+cat README.md
+cd ..
+rmdir Python-Git-Linux
+rm -r Python-Git-Linux
+sudo rm -r Python-Git-Linux
+ls
+cd ..
+git commit -m "update"
+git add .
+git commit -m "update"
+git push
