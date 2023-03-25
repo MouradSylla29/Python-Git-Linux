@@ -1,0 +1,118 @@
+ touch temp.ipynb
+admin@ip-172-26-4-8:~/TD_3/test_repository$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        temp.ipynb
+
+nothing added to commit but untracked files present (use "git add" to track)
+admin@ip-172-26-4-8:~/TD_3/test_repository$ echo "/temp.ipynb" >> .gitig
+nore
+admin@ip-172-26-4-8:~/TD_3/test_repository$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   .gitignore
+
+no changes added to commit (use "git add" and/or "git commit -a")
+admin@ip-172-26-4-8:~/TD_3/test_repository$ touch temp.aux temp.log
+admin@ip-172-26-4-8:~/TD_3/test_repository$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   .gitignore
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        temp.aux
+        temp.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+admin@ip-172-26-4-8:~/TD_3/test_repository$ echo "temp*" >> .gitignore
+admin@ip-172-26-4-8:~/TD_3/test_repository$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   .gitignore
+
+no changes added to commit (use "git add" and/or "git commit -a")
+admin@ip-172-26-4-8:~/TD_3/test_repository$ echo ".private" >> .git/info/exclude
+admin@ip-172-26-4-8:~/TD_3/test_repository$ echo "My repository description" >> readme.md
+admin@ip-172-26-4-8:~/TD_3/test_repository$ git add readme.md
+
+git diff HEAD
+diff --git a/.gitignore b/.gitignore
+index e69de29..a79c891 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -0,0 +1,2 @@
++/temp.ipynb
++temp*
+diff --git a/readme.md b/readme.md
+index 43616b9..c7f7271 100644
+--- a/readme.md
++++ b/readme.md
+@@ -1,2 +1,3 @@
+ # Test repository
+ Test 2
+
+
+
+git commit -m Add repository description to readme.md
+[master 6823c55] Add repository description to readme.md
+ 1 file changed, 1 insertion(+)
+admin@ip-172-26-4-8:~/TD_3/test_repository$ git log -p -1
+commit 6823c55f25273ff2dbfe0e8b64165b24123e57aa (HEAD -> master)
+Author: Mourad Sylla <mourad.sylla@edu.devinci.fr>
+Date:   Sat Mar 25 00:03:24 2023 +0000
+
+    Add repository description to readme.md
+
+diff --git a/readme.md b/readme.md
+index 43616b9..c7f7271 100644
+--- a/readme.md
++++ b/readme.md
+@@ -1,2 +1,3 @@
+ # Test repository
+ Test 2
++My repository description
+admin@ip-172-26-4-8:~/TD_3/test_repository$ git diff HEAD
+diff --git a/.gitignore b/.gitignore
+index e69de29..a79c891 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -0,0 +1,2 @@
++/temp.ipynb
++temp*
+admin@ip-172-26-4-8:~/TD_3/test_repository$ nano readme.md
+admin@ip-172-26-4-8:~/TD_3/test_repository$ nano readme.md
+admin@ip-172-26-4-8:~/TD_3/test_repository$ git diff HEAD
+diff --git a/.gitignore b/.gitignore
+index e69de29..a79c891 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -0,0 +1,2 @@
++/temp.ipynb
++temp*
+diff --git a/readme.md b/readme.md
+index c7f7271..6cafb78 100644
+--- a/readme.md
++++ b/readme.md
+@@ -1,3 +1,4 @@
+ # Test repository
+ Test 2
+ My repository description
++changement test
+
+ git config --global alias.s status
+admin@ip-172-26-4-8:~/TD_3/test_repository$ git config --global alias.co checkout
+admin@ip-172-26-4-8:~/TD_3/test_repository$ git config --global alias.b branch
+admin@ip-172-26-4-8:~/TD_3/test_repository$ git config --global alias.ci commit
+admin@ip-172-26-4-8:~/TD_3/test_repository$ git config --global alias.dog "log --all --decorate --oneline --graph"
+admin@ip-172-26-4-8:~/TD_3/test_repository$ git config --global alias.dag "log --all --decorate --graph"
+admin@ip-172-26-4-8:~/TD_3/test_repository$ git config --global alias.list "diff-tree --no-commit-id --name-only -r"
+admin@ip-172-26-4-8:~/TD_3/test_repository$ git config --global alias.unstage "reset HEAD --"
+admin@ip-172-26-4-8:~/TD_3/test_repository$ git config --global alias.last "log -1 HEAD"

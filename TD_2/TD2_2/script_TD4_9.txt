@@ -1,0 +1,1 @@
+COMMANDS: ssh admin@13.38.52.82      ./connect.sh        scp test admin@13.38.52.82:/home/admin         scp admin@13.38.52.82:/home/admin/distant_test_file .         ./scp_to_remote_instance.sh local_test_file /home/admin            ./scp_from_remote_instance.sh /home/admin distant_test_file 

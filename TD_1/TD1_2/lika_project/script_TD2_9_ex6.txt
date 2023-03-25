@@ -1,0 +1,1 @@
+commands : useradd, groupadd, usermod, su, getent

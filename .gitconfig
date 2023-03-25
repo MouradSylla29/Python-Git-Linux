@@ -1,0 +1,13 @@
+[user]
+	name = Mourad Sylla
+	email = mourad.sylla@edu.devinci.fr
+[alias]
+	s = status
+	co = checkout
+	b = branch
+	ci = commit
+	dog = log --all --decorate --oneline --graph
+	dag = log --all --decorate --graph
+	list = diff-tree --no-commit-id --name-only -r
+	unstage = reset HEAD --
+	last = log -1 HEAD

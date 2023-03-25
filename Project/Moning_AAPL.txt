@@ -1,0 +1,2376 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>
+Apple Inc • AAPL.US • Moning 🚀
+    </title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="description" content="Fundamentals, dividends, financial data and analysis of Apple Inc">
+<meta name="keywords" content="dividends, investment, stocks, etf, etfs, trackers, crypto, forex">
+<link rel="icon" type="image/png" href="/favicon.png">
+<meta name="author" content="Nicolas Blanco">
+<link rel="canonical" href="https://moning.co/stocks/AAPL.US">
+<link rel="alternate" hreflang="en" href="https://moning.co/stocks/AAPL.US">
+<link rel="alternate" hreflang="fr" href="https://moning.co/fr/actions/AAPL.US">
+<link rel="alternate" hreflang="de" href="https://moning.co/de/stocks/AAPL.US">
+<link rel="sitemap" type="application/xml" title="Sitemap" href="https://cdn.moning.co/sitemap.xml.gz">
+<meta property="og:title" content="Apple Inc • AAPL.US • Moning 🚀">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://moning.co/stocks/AAPL.US">
+<meta property="og:image" content="https://eodhistoricaldata.com/img/logos/US/aapl.png">
+<meta property="og:description" content="Fundamentals, dividends, financial data and analysis of Apple Inc">
+<meta name="facebook-domain-verification" content="b3qrwpgpt1dx7hg6luujv95r0zsa9o">
+<link phx-track-static rel="stylesheet" href="/css/app-97c38245bb3cf2f46a4707ca065e06ed.css?vsn=d">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
+<link rel="manifest" href="/manifest.webmanifest">
+<meta content="AQ0jbwJRAS4VATICFwZGZmUnIyQiGgt1F8uW4hmep7BdGH-1PWaARYR3" name="csrf-token">
+<script>
+      window.dataLayer = window.dataLayer || [];
+    </script>
+
+<script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-PZFVSXB');
+    </script>
+
+<script src="https://cdn.paddle.com/paddle/paddle.js">
+    </script>
+<script defer type="text/javascript" src="/js/app-e0d20804b0181e91f94dead81985f2aa.js?vsn=d">
+    </script>
+<script src="https://kit.fontawesome.com/405dcc552d.js" crossorigin="anonymous">
+    </script>
+<script>
+        dataLayer.push({ 'event': 'start_pw' });
+      </script>
+</head>
+<body>
+
+<noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PZFVSXB" height="0" width="0" style="display:none;visibility:hidden">
+      </iframe>
+    </noscript>
+
+<div class="min-h-screen flex flex-col">
+<div data-phx-main data-phx-session="SFMyNTY.g2gDaAJhBXQAAAAIZAACaWRtAAAAFHBoeC1GMHBCS1dVVmQzUWJESXJDZAAMbGl2ZV9zZXNzaW9uaAJkAAJlbm4IADzrN0E6OUoXZAAKcGFyZW50X3BpZGQAA25pbGQACHJvb3RfcGlkZAADbmlsZAAJcm9vdF92aWV3ZAAaRWxpeGlyLk1vbmluZ1dlYi5TdG9ja0xpdmVkAAZyb3V0ZXJkABdFbGl4aXIuTW9uaW5nV2ViLlJvdXRlcmQAB3Nlc3Npb250AAAAAW0AAAAGbG9jYWxlbQAAAAJlbmQABHZpZXdkABpFbGl4aXIuTW9uaW5nV2ViLlN0b2NrTGl2ZW4GAKhACL6GAWIAAVGA.eUB7sNFfqfE5OkZGY92bYPxAQlyw-X7VgLn81Vg_mds" data-phx-static="SFMyNTY.g2gDaAJhBXQAAAADZAAKYXNzaWduX25ld2wAAAADZAAFc3RvY2tkAAZsb2NhbGVkAAxjdXJyZW50X3VzZXJqZAAFZmxhc2h0AAAAAGQAAmlkbQAAABRwaHgtRjBwQktXVVZkM1FiRElyQ24GAKlACL6GAWIAAVGA.FJvK96eUMZ0a9RhEUBWSic3QaXQu4y1_6Jwt8_QiBhs" id="phx-F0pBKWUVd3QbDIrC"><div class="xl:h-20 h-16"></div>
+<header x-data="headerApp" class="xl:absolute fixed z-40 w-full top-0 left-0 bg-header shadow-md">
+<div class="xl:container px-4 xl:h-20 h-16 relative z-10 flex xl:justify-start justify-center items-center">
+<div class="xl:hidden block absolute left-4">
+<div class="js-header-burger" @click="toggleMobileMenu">
+<svg width="18" height="14" viewBox="0 0 18 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1 1H17M1 7H17M1 13H17" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+</path>
+</svg>
+</div>
+</div>
+<a class="109 114 45 55" href="/">
+<div class="sm:block hidden">
+<div class="flex items-center">
+<img src="https://cdn.moning.co/icons/logo-white.svg" alt="logo">
+</div>
+</div>
+<div class="sm:hidden block">
+<div class="flex items-center">
+<img src="https://cdn.moning.co/icons/logo-white-mobile.svg" alt="logo" class="">
+</div>
+</div>
+</a>
+<div class="xl:block hidden">
+<nav class="flex items-center" id="nav-browser">
+<div class="relative group">
+<a href="/auth" data-phx-link="redirect" data-phx-link-state="push" class="inline-flex items-center px-4 py-2 text-white text-base font-medium cursor-pointer rounded-md hover:bg-white hover:bg-opacity-20 transition duration-200">
+My Portfolios
+</a>
+</div>
+<div class="relative group">
+<span class="inline-flex items-center px-4 py-2 text-white text-base font-medium cursor-pointer rounded-md">
+Community
+<img class="ml-1" src="https://cdn.moning.co/icons/chevron-down.svg" alt="chevron-down">
+</span>
+<div class="absolute top-full shadow-md rounded-lg bg-white cursor-auto hidden group-hover:block p-4 top-full left-0 w-480">
+<a class="flex items-start p-3.5 rounded-lg hover:bg-gray-50 transition duration-200 cursor-pointer" href="https://communaute.moning.co">
+<img class="mr-4" src="https://cdn.moning.co/icons/people.svg" alt="icon">
+<div class="flex flex-col">
+<span class="text-gray-900 text-base font-medium">
+Discussion forum
+</span>
+<span class="text-gray-500 text-sm font-normal">
+Share news, strategies and questions with other members
+</span>
+</div>
+</a>
+<a href="/statistics" data-phx-link="redirect" data-phx-link-state="push" class="flex items-start p-3.5 rounded-lg hover:bg-gray-50 transition duration-200 cursor-pointer">
+<img class="mr-4" src="https://cdn.moning.co/icons/stats_white.svg" alt="icon">
+<div class="flex flex-col">
+<span class="text-gray-900 text-base font-medium">
+Statistics
+</span>
+<span class="text-gray-500 text-sm font-normal">
+Portfolios and stocks statistics of the platform members
+</span>
+</div>
+</a>
+<a class="flex items-start p-3.5 rounded-lg hover:bg-gray-50 transition duration-200 cursor-pointer" href="/portfolios">
+<img class="mr-4" src="https://cdn.moning.co/icons/people.svg" alt="icon">
+<div class="flex flex-col">
+<span class="text-gray-900 text-base font-medium">
+Public portfolios
+</span>
+<span class="text-gray-500 text-sm font-normal">
+Public portfolios of members
+</span>
+</div>
+</a>
+</div>
+</div>
+<a href="/stocks" data-phx-link="redirect" data-phx-link-state="push" class="inline-flex items-center px-4 py-2 text-white text-base font-medium cursor-pointer bg-white bg-opacity-20 rounded-md hover:bg-white hover:bg-opacity-20 transition duration-200">
+Stocks
+</a>
+<a href="/etf" data-phx-link="redirect" data-phx-link-state="push" class="inline-flex items-center px-4 py-2 text-white text-base font-medium cursor-pointer  rounded-md hover:bg-white hover:bg-opacity-20 transition duration-200">
+ETFs
+</a>
+<a href="/cryptos" data-phx-link="redirect" data-phx-link-state="push" class="inline-flex items-center px-4 py-2 text-white text-base font-medium cursor-pointer  rounded-md hover:bg-white hover:bg-opacity-20 transition duration-200">
+Cryptos
+</a>
+<div class="relative group">
+<span class="inline-flex items-center px-4 py-2 text-white text-base font-medium cursor-pointer rounded-md">
+More
+<img class="ml-1" src="https://cdn.moning.co/icons/chevron-down.svg" alt="chevron-down">
+</span>
+<div class="absolute top-full shadow-md rounded-lg bg-white cursor-auto hidden group-hover:block p-4 top-full right-0 w-480">
+<a class="flex items-start p-3.5 rounded-lg hover:bg-gray-50 transition duration-200 cursor-pointer" href="/articles">
+<img class="mr-4" src="https://cdn.moning.co/icons/people.svg" alt="icon">
+<div class="flex flex-col">
+<span class="text-gray-900 text-base font-medium">
+Articles
+</span>
+<span class="text-gray-500 text-sm font-normal">
+Find our latest articles to improve your investments
+</span>
+</div>
+</a>
+<a href="/about" data-phx-link="redirect" data-phx-link-state="push" class="flex items-start p-3.5 rounded-lg hover:bg-gray-50 transition duration-200 cursor-pointer">
+<img class="mr-4" src="https://cdn.moning.co/icons/case.svg" alt="icon">
+<div class="flex flex-col">
+<span class="text-gray-900 text-base font-medium">
+About us
+</span>
+<span class="text-gray-500 text-sm font-normal">
+Learn more about our platform
+</span>
+</div>
+</a>
+<a href="/affiliation" data-phx-link="redirect" data-phx-link-state="push" class="flex items-start p-3.5 rounded-lg hover:bg-gray-50 transition duration-200 cursor-pointer">
+<img class="mr-4" src="https://cdn.moning.co/icons/dollar.svg" alt="icon">
+<div class="flex flex-col">
+<span class="text-gray-900 text-base font-medium">
+Affiliation Program
+</span>
+<span class="text-gray-500 text-sm font-normal">
+Earn money with us
+</span>
+</div>
+</a>
+<a class="flex items-start p-3.5 rounded-lg hover:bg-gray-50 transition duration-200 cursor-pointer" href="https://twitter.com/moning_co">
+<img class="mr-4" src="https://cdn.moning.co/icons/twitter.svg" alt="icon">
+<div class="flex flex-col">
+<span class="text-gray-900 text-base font-medium">
+Our Twitter
+</span>
+<span class="text-gray-500 text-sm font-normal">
+Follow us on Twitter
+</span>
+</div>
+</a>
+<a id="dark-mode-link" class="flex items-start p-3.5 rounded-lg hover:bg-gray-50 transition duration-200 cursor-pointer" phx-hook="DarkMode">
+<img class="mr-4" src="https://cdn.moning.co/icons/moon.svg" alt="icon">
+<div class="flex flex-col">
+<span class="text-gray-900 text-base font-medium">
+Dark Mode
+</span>
+<span class="text-gray-500 text-sm font-normal">
+Turn on or off the dark theme
+</span>
+</div>
+</a>
+</div>
+</div>
+</nav>
+</div>
+<div class="absolute right-4 flex items-center">
+<div class="mr-4">
+<div class="relative group">
+<img class="cursor-pointer" src="https://cdn.moning.co/icons/planet.svg" alt="lang">
+<div class="absolute top-full shadow-md rounded-lg bg-white cursor-auto hidden group-hover:block false top-full right-0 w-40">
+<a href="/fr">
+<div class="flex items-center px-4 py-2.5 cursor-pointer">
+<img class="mr-4" src="/images/icons/fr-flag-3517583e1e32c2ac77b4e6b2c73b9a9c.svg?vsn=d">
+<span class="block flex-1 hover:text-gray-900 transition duration-200 text-gray-500 text-sm">
+ Français
+</span>
+</div>
+</a>
+<a href="/de">
+<div class="flex items-center px-4 py-2.5 cursor-pointer">
+<img class="mr-4" src="/images/icons/de-flag-8f1d6f95420bc765345e6ec3927c934d.svg?vsn=d">
+<span class="block flex-1 hover:text-gray-900 transition duration-200 text-gray-500 text-sm">
+Deutsch
+</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="xl:hidden block fixed max-h-full w-full overflow-auto bg-white top-16 left-0 pb-5 transform transition duration-300 js-menu-mobile" x-bind:class="!showMobileMenu && '-translate-x-full'">
+<nav class="flex flex-wrap flex-col">
+<a class="flex justify-between items-center px-4 py-4 text-base font-normal cursor-pointer text-lg text-gray-500" href="/auth">My Portfolios</a>
+<a class="flex justify-between items-center px-4 py-4 text-base font-normal cursor-pointer text-lg bg-sky-50 border-l-4 border-sky-500 text-gray-900" href="/stocks">Stocks</a>
+<a class="flex justify-between items-center px-4 py-4 text-base font-normal cursor-pointer text-lg text-gray-500" href="/etf">ETFs</a>
+<a class="flex justify-between items-center px-4 py-4 text-base font-normal cursor-pointer text-lg text-gray-500" href="/cryptos">Cryptos</a>
+<a class="flex justify-between items-center px-4 py-4 text-base font-normal cursor-pointer text-lg text-gray-500" href="/articles">Articles</a>
+<a class="flex justify-between items-center px-4 py-4 text-base font-normal cursor-pointer text-lg text-gray-500" href="https://communaute.moning.co">Discussion forum</a>
+<a class="flex justify-between items-center px-4 py-4 text-base font-normal cursor-pointer text-lg text-gray-500" href="/portfolios">Public portfolios</a>
+<a class="flex justify-between items-center px-4 py-4 text-base font-normal cursor-pointer text-lg text-gray-500" href="/statistics">Statistics</a>
+<a class="flex justify-between items-center px-4 py-4 text-base font-normal cursor-pointer text-lg text-gray-500" href="/about">About us</a>
+<a class="flex justify-between items-center px-4 py-4 text-base font-normal cursor-pointer text-lg text-gray-500" href="/affiliation">Affiliation Program</a>
+<a class="flex justify-between items-center px-4 py-4 text-base font-normal cursor-pointer text-lg text-gray-500" href="https://twitter.com/moning_co">Our Twitter</a>
+<a id="dark-mode-link-mobile" class="flex justify-between items-center px-4 py-4 text-base font-normal cursor-pointer text-lg text-gray-500" phx-hook="DarkMode">
+Dark Mode
+</a>
+<a class="flex justify-between items-center px-4 py-4 text-base font-normal cursor-pointer text-lg text-gray-500">
+&nbsp;
+</a>
+<a class="flex justify-between items-center px-4 py-4 text-base font-normal cursor-pointer text-lg text-gray-500">
+&nbsp;
+</a>
+<a class="flex justify-between items-center px-4 py-4 text-base font-normal cursor-pointer text-lg text-gray-500">
+&nbsp;
+</a>
+<a class="flex justify-between items-center px-4 py-4 text-base font-normal cursor-pointer text-lg text-gray-500">
+&nbsp;
+</a>
+</nav>
+</div>
+</header>
+<div phx-update="ignore" id="old-browser-alert-container">
+<div class="flex justify-between items-center bg-sky-200 relative text-gray-700 py-3 px-3 rounded-lg mt-6 w-8/12 m-auto mb-6 d-none hidden" role="alert" id="old-browser-alert">
+<div>
+Your browser is old. Some features of Moning may not work properly.
+<br>
+We recommend that you update your browser and operating system.
+</div>
+</div>
+</div>
+<div class="text-center bg-gray-50 py-8">
+<div class="container px-4">
+<p class="text-xl text-gray-500 max-w-2xl mx-auto">
+The all-in-one platform to <strong>find and track</strong> your investments
+</p>
+<a href="/" class="mt-5 font-medium leading-none inline-flex justify-center items-center text-sm transition duration-300 border bg-sky-500 text-white border-transparent hover:bg-sky-400 active:bg-sky-600 px-4 rounded-md">
+<i class="fas fa-lightbulb mr-2"></i>
+<span class="py-3">Discover the features</span>
+</a>
+</div>
+</div>
+<form action="javascript: void(0)" method="post" id="stock-search-form" phx-change="validate_search" x-data="filters">
+<input name="_csrf_token" type="hidden" hidden value="AQ0jbwJRAS4VATICFwZGZmUnIyQiGgt1F8uW4hmep7BdGH-1PWaARYR3">
+<div class="relative mb-4">
+<span class="absolute top-0 left-0 h-1/2 w-full bg-gray-50" style="z-index:-1"></span>
+<div class="container px-4">
+<div class="flex flex-col md:flex-row md:items-center flex-wrap bg-white shadow-sm rounded-md border border-gray-200 p-5 js-stocks-search">
+<a id="filter-menu-toggle-link" class="font-medium leading-none inline-flex justify-center items-center text-sm transition duration-300 border bg-white text-black border-gray-300 hover:bg-gray-200 active:bg-gray-300 px-4 rounded-md mb-4 md:mb-0 cursor-pointer js-toggle-filters" @click="toggleFilterMenu($event)">
+<div class="mr-2"><img src="/images/icons/filter.svg" , alt="filter"></div>
+<span class="py-3">Filters</span>
+</a>
+<div class="flex-1 md:px-4 mb-4 md:mb-0">
+<input autofocus class="border border-gray-300 rounded-md w-full text-black placeholder-gray-400 outline-none bg-white shadow-sm px-3 py-2 text-sm js-search-input" class="form-control" id="stock-search-form_q" name="stock_search[q]" phx-debounce="300" placeholder="Search by name, ticker or ISIN" type="search">
+</div>
+<button class="font-medium leading-none inline-flex justify-center items-center text-sm transition duration-300 border bg-indigo-50 text-indigo-700 border-transparent hover:bg-indigo-100 active:bg-indigo-200 px-4 rounded-md js-reset-filters hidden">
+<span class="py-3">Reset all filters</span>
+<div class="ml-2"><img src="/images/icons/cancel-round.svg" alt="cancel"></div>
+</button>
+</div>
+</div>
+</div>
+<div class="container px-4 flex mb-20">
+<div class="fixed xl:static h-full top-0 left-0 w-80 xl:mr-8 js-filters bg-white z-50 xl:z-30 max-w-full js-stocks-filters" x-bind:class="showFilterMenu ? 'xl:block block' : 'xl:hidden hidden'">
+<div class="xl:hidden flex justify-between items-center shadow-md px-6 py-4">
+<span class="text-xl text-gray-500 font-medium">Refine your selection</span>
+<div class="cursor-pointer h-3.5 w-3.5 text-gray-800 js-filters-close" @click="showFilterMenu = false">
+<svg class="stroke-current" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1 13L13 1M1 1L13 13" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+</path>
+</svg>
+</div>
+</div>
+<div class="xl:p-0 px-6 pt-7 pb-20 overflow-auto h-full">
+<div class="mb-8 js-range">
+<h6 class="text-gray-500 uppercase text-sm font-bold pb-2 border-b border-gray-200 mb-4">
+Uninterrupted dividend
+</h6>
+<div class="range">
+<input class="range-input js-range-input" id="stock-search-form_uninterrupted_dividend" max="30" min="0" name="stock_search[uninterrupted_dividend]" phx-debounce="300" step="5" type="range" value="0"><span class="range-line js-range-line"></span>
+</div>
+<p class="text-sm font-medium text-gray-400 mt-1 js-filter-item-subt">
+all
+</p>
+</div>
+<div class="mb-8 js-range">
+<h6 class="text-gray-500 uppercase text-sm font-bold pb-2 border-b border-gray-200 mb-4">
+Dividend yield
+</h6>
+<div class="range">
+<input class="range-input js-range-input" id="stock-search-form_forward_dividend_yield" max="10" min="0" name="stock_search[forward_dividend_yield]" phx-debounce="300" step="1" type="range" value="0"><span class="range-line js-range-line"></span>
+</div>
+<p class="text-sm font-medium text-gray-400 mt-1 js-filter-item-subt">
+all
+</p>
+</div>
+<div class="mb-8 js-range">
+<h6 class="text-gray-500 uppercase text-sm font-bold pb-2 border-b border-gray-200 mb-4">
+Payout ratio
+</h6>
+<div class="range">
+<input class="range-input js-range-input" id="stock-search-form_payout_ratio" max="100" min="5" name="stock_search[payout_ratio]" phx-debounce="300" step="5" type="range" value="100"><span class="range-line js-range-line"></span>
+</div>
+<p class="text-sm font-medium text-gray-400 mt-1 js-filter-item-subt">
+all
+</p>
+</div>
+<div class="mb-8 js-range">
+<h6 class="text-gray-500 uppercase text-sm font-bold pb-2 border-b border-gray-200 mb-4">
+PE Ratio
+</h6>
+<div class="range">
+<input class="range-input js-range-input" id="stock-search-form_pe_ratio" max="100" min="5" name="stock_search[pe_ratio]" phx-debounce="300" step="5" type="range" value="100"><span class="range-line js-range-line"></span>
+</div>
+<p class="text-sm font-medium text-gray-400 mt-1 js-filter-item-subt">
+all
+</p>
+</div>
+<div class="mb-8">
+<h6 class="text-gray-500 uppercase text-sm font-bold pb-2 border-b border-gray-200 mb-4">
+Sectors
+</h6>
+<div class="relative inline-flex w-full">
+ <select class="text-sm px-4 pr-9 py-2 leading-5 border border-gray-300 rounded-md appearance-none outline-none w-full js-select" id="stock-search-form_sector" name="stock_search[sector]"><option value="">All</option><option value="financials">Financials</option><option value="real_estate">Real estate</option><option value="healthcare">Healthcare</option><option value="energy">Energy</option><option value="utilities">Utilities</option><option value="consumer_staples">Consumer staples</option><option value="communications">Communications</option><option value="industrials">Industrials</option><option value="consumer_discretionary">Consumer discretionary</option><option value="information_technology">Information technology</option><option value="materials">Materials</option><option value="other">Other</option></select>
+<svg class="absolute top-1/2 transform -translate-y-1/2 right-3" width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.292923 0.292893C0.683447 -0.097631 1.31661 -0.097631 1.70713 0.292893L5.00002 3.58579L8.29291 0.292893C8.68343 -0.0976311 9.3166 -0.0976311 9.70712 0.292893C10.0976 0.683417 10.0976 1.31658 9.70712 1.70711L5.70713 5.70711C5.31661 6.09763 4.68344 6.09763 4.29292 5.70711L0.292923 1.70711C-0.0976004 1.31658 -0.0976004 0.683417 0.292923 0.292893Z" fill="#6B7280"></path>
+</svg>
+</div>
+</div>
+<div>
+<h6 class="text-gray-500 uppercase text-sm font-bold pb-2 border-b border-gray-200 mb-4">
+Country
+</h6>
+<div class="relative inline-flex w-full">
+<select class="text-sm px-4 pr-9 py-2 leading-5 border border-gray-300 rounded-md appearance-none outline-none w-full js-select" id="stock-search-form_country_and_exchange" name="stock_search[country_and_exchange]"><option value="">All</option><option value="US">United States</option><option value="UE">European Union</option><option value="BE">Belgium</option><option value="CA">Canada</option><option value="FR">France</option><option value="DE">Germany</option><option value="ES">Spain</option><option value="IT">Italy</option><option value="PT">Portugal</option><option value="NL">Netherlands</option><option value="CH">Switzerland</option><option value="UK">United-Kingdom</option><option value="NO">Norway</option><option value="SE">Sweden</option><option value="FI">Finland</option></select>
+<svg class="absolute top-1/2 transform -translate-y-1/2 right-3" width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.292923 0.292893C0.683447 -0.097631 1.31661 -0.097631 1.70713 0.292893L5.00002 3.58579L8.29291 0.292893C8.68343 -0.0976311 9.3166 -0.0976311 9.70712 0.292893C10.0976 0.683417 10.0976 1.31658 9.70712 1.70711L5.70713 5.70711C5.31661 6.09763 4.68344 6.09763 4.29292 5.70711L0.292923 1.70711C-0.0976004 1.31658 -0.0976004 0.683417 0.292923 0.292893Z" fill="#6B7280"></path>
+</svg>
+</div>
+</div>
+</div>
+</div>
+<div class="xl:hidden block">
+<div class="fixed left-0 right-0 top-0 bottom-0 bg-black w-full h-full transition duration-300 opacity-80 z-20 js-filters-overlay" x-bind:class="showFilterMenu ? 'block' : 'hidden'" @click="showFilterMenu = false">
+</div>
+</div>
+<div class="flex-1" id="stocks-container" phx-hook="InfiniteScroll" data-cursor="g3QAAAACZAACaWRtAAAAJDFlNDBlMzUwLWE2MmUtNDJhMi05MmU3LTNkMjM3ZjU0ZDE2OGQAD3BvcHVsYXJpdHlfcmFua2IAAA1L">
+<div id="stocks-list-1" phx-update="append">
+<a href="/stocks/TTE.PA" data-phx-link="patch" data-phx-link-state="push" id="stock-link-c055b87d-6771-4a9a-8633-2eff3bbefa20">
+<div id="stock-c055b87d-6771-4a9a-8633-2eff3bbefa20" class="product-card mb-1.5" data-modal-open="product-modal">
+<div class="product-card-left">
+<div class="product-card-icon">
+<img class="w-12" src="https://eodhistoricaldata.com/img/logos/PA/tte.png" alt="product">
+</div>
+<div class="w-64 xl:w-80">
+<h6 class="product-card-suptitle">
+TTE •
+France •
+Energy
+</h6>
+<h5 class="product-card-title truncate">TotalEnergies SE</h5>
+</div>
+</div>
+<div class="product-card-right">
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price</span>
+<span class="product-card-detail-value">
+€59.30
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Yield</span>
+<span class="product-card-detail-value">
+4.85 %
+</span>
+</div>
+<div class="product-card-details">
+<span class="product-card-detail-name">Dividend strk.</span>
+<span class="product-card-detail-value ">
++ 30 yr.
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Payout ratio</span>
+<span class="product-card-detail-value">
+36 %
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price / 1 y.</span>
+<span class="product-card-detail-value bg-emerald-100 px-2 rounded">
++42 %
+</span>
+</div>
+</div>
+</div>
+</a>
+<a href="/stocks/AAPL.US" data-phx-link="patch" data-phx-link-state="push" id="stock-link-44155a58-66ab-4f11-a381-e43932224b08">
+<div id="stock-44155a58-66ab-4f11-a381-e43932224b08" class="product-card mb-1.5" data-modal-open="product-modal">
+<div class="product-card-left">
+<div class="product-card-icon">
+<img class="w-12" src="https://eodhistoricaldata.com/img/logos/US/aapl.png" alt="product">
+</div>
+<div class="w-64 xl:w-80">
+<h6 class="product-card-suptitle">
+AAPL •
+US •
+Information technology
+</h6>
+<h5 class="product-card-title truncate">Apple Inc</h5>
+</div>
+</div>
+<div class="product-card-right">
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price</span>
+<span class="product-card-detail-value">
+$154
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Yield</span>
+<span class="product-card-detail-value">
+0.63 %
+</span>
+</div>
+<div class="product-card-details">
+<span class="product-card-detail-name">Dividend strk.</span>
+<span class="product-card-detail-value ">
+11 years
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Payout ratio</span>
+<span class="product-card-detail-value">
+16 %
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price / 1 y.</span>
+<span class="product-card-detail-value bg-pink-100 px-2 rounded">
+-3 %
+</span>
+</div>
+</div>
+</div>
+</a>
+<a href="/stocks/O.US" data-phx-link="patch" data-phx-link-state="push" id="stock-link-56cf8651-20e8-4239-a3a6-fa3b6e7edbbc">
+<div id="stock-56cf8651-20e8-4239-a3a6-fa3b6e7edbbc" class="product-card mb-1.5" data-modal-open="product-modal">
+<div class="product-card-left">
+<div class="product-card-icon">
+<img class="w-12" src="https://eodhistoricaldata.com/img/logos/US/o.png" alt="product">
+</div>
+<div class="w-64 xl:w-80">
+<h6 class="product-card-suptitle">
+O •
+US •
+Real estate
+</h6>
+<h5 class="product-card-title truncate">Realty Income Corp</h5>
+</div>
+</div>
+<div class="product-card-right">
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price</span>
+<span class="product-card-detail-value">
+$64.30
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Yield</span>
+<span class="product-card-detail-value">
+4.81 %
+</span>
+</div>
+<div class="product-card-details">
+<span class="product-card-detail-name">Dividend strk.</span>
+<span class="product-card-detail-value ">
+29 years
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Payout ratio</span>
+<span class="product-card-detail-value">
+70 %
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price / 1 y.</span>
+<span class="product-card-detail-value bg-emerald-100 px-2 rounded">
++4 %
+</span>
+</div>
+</div>
+</div>
+</a>
+<a href="/stocks/KO.US" data-phx-link="patch" data-phx-link-state="push" id="stock-link-6922189e-0a7a-4070-9509-86f442b7d0ba">
+<div id="stock-6922189e-0a7a-4070-9509-86f442b7d0ba" class="product-card mb-1.5" data-modal-open="product-modal">
+<div class="product-card-left">
+<div class="product-card-icon">
+<img class="w-12" src="https://eodhistoricaldata.com/img/logos/US/ko.png" alt="product">
+</div>
+<div class="w-64 xl:w-80">
+<h6 class="product-card-suptitle">
+KO •
+US •
+Consumer staples
+</h6>
+<h5 class="product-card-title truncate">Coca-Cola Co</h5>
+</div>
+</div>
+<div class="product-card-right">
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price</span>
+<span class="product-card-detail-value">
+$60.36
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Yield</span>
+<span class="product-card-detail-value">
+3.13 %
+</span>
+</div>
+<div class="product-card-details">
+<span class="product-card-detail-name">Dividend strk.</span>
+<span class="product-card-detail-value ">
++ 30 yr.
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Payout ratio</span>
+<span class="product-card-detail-value">
+72 %
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price / 1 y.</span>
+<span class="product-card-detail-value bg-emerald-100 px-2 rounded">
++2 %
+</span>
+</div>
+</div>
+</div>
+</a>
+<a href="/stocks/CS.PA" data-phx-link="patch" data-phx-link-state="push" id="stock-link-dbab3fcb-1ae9-431a-94ff-3ed8ffb25b14">
+<div id="stock-dbab3fcb-1ae9-431a-94ff-3ed8ffb25b14" class="product-card mb-1.5" data-modal-open="product-modal">
+<div class="product-card-left">
+<div class="product-card-icon">
+<img class="w-12" src="https://eodhistoricaldata.com/img/logos/PA/CS.png" alt="product">
+</div>
+<div class="w-64 xl:w-80">
+<h6 class="product-card-suptitle">
+CS •
+France •
+Financials
+</h6>
+<h5 class="product-card-title truncate">AXA SA</h5>
+</div>
+</div>
+<div class="product-card-right">
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price</span>
+<span class="product-card-detail-value">
+€30.11
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Yield</span>
+<span class="product-card-detail-value">
+5.71 %
+</span>
+</div>
+<div class="product-card-details">
+<span class="product-card-detail-name">Dividend strk.</span>
+<span class="product-card-detail-value ">
++ 30 yr.
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Payout ratio</span>
+<span class="product-card-detail-value">
+51 %
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price / 1 y.</span>
+<span class="product-card-detail-value bg-emerald-100 px-2 rounded">
++45 %
+</span>
+</div>
+</div>
+</div>
+</a>
+<a href="/stocks/MSFT.US" data-phx-link="patch" data-phx-link-state="push" id="stock-link-710056f8-8d1e-4694-ba5f-da9b568dd59c">
+<div id="stock-710056f8-8d1e-4694-ba5f-da9b568dd59c" class="product-card mb-1.5" data-modal-open="product-modal">
+<div class="product-card-left">
+<div class="product-card-icon">
+<img class="w-12" src="https://eodhistoricaldata.com/img/logos/US/MSFT.png" alt="product">
+</div>
+<div class="w-64 xl:w-80">
+<h6 class="product-card-suptitle">
+MSFT •
+US •
+Information technology
+</h6>
+<h5 class="product-card-title truncate">Microsoft Corporation</h5>
+</div>
+</div>
+<div class="product-card-right">
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price</span>
+<span class="product-card-detail-value">
+$257
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Yield</span>
+<span class="product-card-detail-value">
+1.1 %
+</span>
+</div>
+<div class="product-card-details">
+<span class="product-card-detail-name">Dividend strk.</span>
+<span class="product-card-detail-value ">
+20 years
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Payout ratio</span>
+<span class="product-card-detail-value">
+29 %
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price / 1 y.</span>
+<span class="product-card-detail-value bg-pink-100 px-2 rounded">
+-7 %
+</span>
+</div>
+</div>
+</div>
+</a>
+<a href="/stocks/JNJ.US" data-phx-link="patch" data-phx-link-state="push" id="stock-link-8b8d55b7-7104-4929-822c-968dca85e2b0">
+<div id="stock-8b8d55b7-7104-4929-822c-968dca85e2b0" class="product-card mb-1.5" data-modal-open="product-modal">
+<div class="product-card-left">
+<div class="product-card-icon">
+<img class="w-12" src="https://eodhistoricaldata.com/img/logos/US/JNJ.png" alt="product">
+</div>
+<div class="w-64 xl:w-80">
+<h6 class="product-card-suptitle">
+JNJ •
+US •
+Healthcare
+</h6>
+<h5 class="product-card-title truncate">Johnson &amp; Johnson</h5>
+</div>
+</div>
+<div class="product-card-right">
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price</span>
+<span class="product-card-detail-value">
+$156
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Yield</span>
+<span class="product-card-detail-value">
+2.96 %
+</span>
+</div>
+<div class="product-card-details">
+<span class="product-card-detail-name">Dividend strk.</span>
+<span class="product-card-detail-value ">
++ 30 yr.
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Payout ratio</span>
+<span class="product-card-detail-value">
+44 %
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price / 1 y.</span>
+<span class="product-card-detail-value bg-pink-100 px-2 rounded">
+-7 %
+</span>
+</div>
+</div>
+</div>
+</a>
+<a href="/stocks/AI.PA" data-phx-link="patch" data-phx-link-state="push" id="stock-link-57a0f906-2fbd-43d5-8d65-3366459fa37f">
+<div id="stock-57a0f906-2fbd-43d5-8d65-3366459fa37f" class="product-card mb-1.5" data-modal-open="product-modal">
+<div class="product-card-left">
+<div class="product-card-icon">
+<img class="w-12" src="https://eodhistoricaldata.com/img/logos/PA/AI.png" alt="product">
+</div>
+<div class="w-64 xl:w-80">
+<h6 class="product-card-suptitle">
+AI •
+France •
+Materials
+</h6>
+<h5 class="product-card-title truncate">Air Liquide SA</h5>
+</div>
+</div>
+<div class="product-card-right">
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price</span>
+<span class="product-card-detail-value">
+€149
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Yield</span>
+<span class="product-card-detail-value">
+1.98 %
+</span>
+</div>
+<div class="product-card-details">
+<span class="product-card-detail-name">Dividend strk.</span>
+<span class="product-card-detail-value ">
++ 30 yr.
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Payout ratio</span>
+<span class="product-card-detail-value">
+52 %
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price / 1 y.</span>
+<span class="product-card-detail-value bg-emerald-100 px-2 rounded">
++18 %
+</span>
+</div>
+</div>
+</div>
+</a>
+<a href="/stocks/SAN.PA" data-phx-link="patch" data-phx-link-state="push" id="stock-link-e9a13433-3eb5-43f7-b836-4366ed15ba8b">
+<div id="stock-e9a13433-3eb5-43f7-b836-4366ed15ba8b" class="product-card mb-1.5" data-modal-open="product-modal">
+<div class="product-card-left">
+<div class="product-card-icon">
+<img class="w-12" src="https://eodhistoricaldata.com/img/logos/PA/SAN.png" alt="product">
+</div>
+<div class="w-64 xl:w-80">
+<h6 class="product-card-suptitle">
+SAN •
+France •
+Healthcare
+</h6>
+<h5 class="product-card-title truncate">Sanofi SA</h5>
+</div>
+</div>
+<div class="product-card-right">
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price</span>
+<span class="product-card-detail-value">
+€89.18
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Yield</span>
+<span class="product-card-detail-value">
+3.77 %
+</span>
+</div>
+<div class="product-card-details">
+<span class="product-card-detail-name">Dividend strk.</span>
+<span class="product-card-detail-value ">
++ 30 yr.
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Payout ratio</span>
+<span class="product-card-detail-value">
+50 %
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price / 1 y.</span>
+<span class="product-card-detail-value bg-emerald-100 px-2 rounded">
++5 %
+</span>
+</div>
+</div>
+</div>
+</a>
+<a href="/stocks/INTC.US" data-phx-link="patch" data-phx-link-state="push" id="stock-link-8071f792-644b-4fac-b561-4dda95e78ec8">
+<div id="stock-8071f792-644b-4fac-b561-4dda95e78ec8" class="product-card mb-1.5" data-modal-open="product-modal">
+<div class="product-card-left">
+<div class="product-card-icon">
+<img class="w-12" src="https://eodhistoricaldata.com/img/logos/US/INTC.png" alt="product">
+</div>
+<div class="w-64 xl:w-80">
+<h6 class="product-card-suptitle">
+INTC •
+US •
+Information technology
+</h6>
+<h5 class="product-card-title truncate">Intel Corporation</h5>
+</div>
+</div>
+<div class="product-card-right">
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price</span>
+<span class="product-card-detail-value">
+$25.99
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Yield</span>
+<span class="product-card-detail-value">
+1.97 %
+</span>
+</div>
+<div class="product-card-details">
+<span class="product-card-detail-name">Dividend strk.</span>
+<span class="product-card-detail-value ">
++ 30 yr.
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Payout ratio</span>
+<span class="product-card-detail-value">
+79 %
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price / 1 y.</span>
+<span class="product-card-detail-value bg-pink-100 px-2 rounded">
+-43 %
+</span>
+</div>
+</div>
+</div>
+</a>
+<a href="/stocks/VZ.US" data-phx-link="patch" data-phx-link-state="push" id="stock-link-e88acea8-7c0a-47b7-ae43-31aca420482d">
+<div id="stock-e88acea8-7c0a-47b7-ae43-31aca420482d" class="product-card mb-1.5" data-modal-open="product-modal">
+<div class="product-card-left">
+<div class="product-card-icon">
+<img class="w-12" src="https://eodhistoricaldata.com/img/logos/US/vz.png" alt="product">
+</div>
+<div class="w-64 xl:w-80">
+<h6 class="product-card-suptitle">
+VZ •
+US •
+Communications
+</h6>
+<h5 class="product-card-title truncate">Verizon Communications Inc</h5>
+</div>
+</div>
+<div class="product-card-right">
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price</span>
+<span class="product-card-detail-value">
+$38.15
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Yield</span>
+<span class="product-card-detail-value">
+6.81 %
+</span>
+</div>
+<div class="product-card-details">
+<span class="product-card-detail-name">Dividend strk.</span>
+<span class="product-card-detail-value ">
++ 30 yr.
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Payout ratio</span>
+<span class="product-card-detail-value">
+50 %
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price / 1 y.</span>
+<span class="product-card-detail-value bg-pink-100 px-2 rounded">
+-26 %
+</span>
+</div>
+</div>
+</div>
+</a>
+<a href="/stocks/MMM.US" data-phx-link="patch" data-phx-link-state="push" id="stock-link-df489cf1-465b-4922-836b-e09eb106e04f">
+<div id="stock-df489cf1-465b-4922-836b-e09eb106e04f" class="product-card mb-1.5" data-modal-open="product-modal">
+<div class="product-card-left">
+<div class="product-card-icon">
+<img class="w-12" src="https://eodhistoricaldata.com/img/logos/US/mmm.png" alt="product">
+</div>
+<div class="w-64 xl:w-80">
+<h6 class="product-card-suptitle">
+MMM •
+US •
+Industrials
+</h6>
+<h5 class="product-card-title truncate">3M Company</h5>
+</div>
+</div>
+<div class="product-card-right">
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price</span>
+<span class="product-card-detail-value">
+$110
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Yield</span>
+<span class="product-card-detail-value">
+5.44 %
+</span>
+</div>
+<div class="product-card-details">
+<span class="product-card-detail-name">Dividend strk.</span>
+<span class="product-card-detail-value ">
++ 30 yr.
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Payout ratio</span>
+<span class="product-card-detail-value">
+59 %
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price / 1 y.</span>
+<span class="product-card-detail-value bg-pink-100 px-2 rounded">
+-20 %
+</span>
+</div>
+</div>
+</div>
+</a>
+<a href="/stocks/T.US" data-phx-link="patch" data-phx-link-state="push" id="stock-link-1057ebd3-b509-4840-a630-139c386f521a">
+<div id="stock-1057ebd3-b509-4840-a630-139c386f521a" class="product-card mb-1.5" data-modal-open="product-modal">
+<div class="product-card-left">
+ <div class="product-card-icon">
+<img class="w-12" src="https://eodhistoricaldata.com/img/logos/US/t.png" alt="product">
+</div>
+<div class="w-64 xl:w-80">
+<h6 class="product-card-suptitle">
+T •
+US •
+Communications
+</h6>
+<h5 class="product-card-title truncate">AT&amp;T Inc</h5>
+</div>
+</div>
+<div class="product-card-right">
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price</span>
+<span class="product-card-detail-value">
+$18.77
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Yield</span>
+<span class="product-card-detail-value">
+5.95 %
+</span>
+</div>
+<div class="product-card-details">
+<span class="product-card-detail-name">Dividend strk.</span>
+<span class="product-card-detail-value ">
++ 30 yr.
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Payout ratio</span>
+<span class="product-card-detail-value">
+41 %
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price / 1 y.</span>
+<span class="product-card-detail-value bg-emerald-100 px-2 rounded">
++12 %
+</span>
+</div>
+</div>
+</div>
+</a>
+<a href="/stocks/ABBV.US" data-phx-link="patch" data-phx-link-state="push" id="stock-link-c65378c9-c3bd-45a1-a421-236c678901b9">
+<div id="stock-c65378c9-c3bd-45a1-a421-236c678901b9" class="product-card mb-1.5" data-modal-open="product-modal">
+<div class="product-card-left">
+<div class="product-card-icon">
+<img class="w-12" src="https://eodhistoricaldata.com/img/logos/US/abbv.png" alt="product">
+</div>
+<div class="w-64 xl:w-80">
+<h6 class="product-card-suptitle">
+ABBV •
+US •
+Healthcare
+</h6>
+<h5 class="product-card-title truncate">AbbVie Inc</h5>
+</div>
+</div>
+<div class="product-card-right">
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price</span>
+<span class="product-card-detail-value">
+$155
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Yield</span>
+<span class="product-card-detail-value">
+3.81 %
+</span>
+</div>
+<div class="product-card-details">
+<span class="product-card-detail-name">Dividend strk.</span>
+<span class="product-card-detail-value ">
+10 years
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Payout ratio</span>
+<span class="product-card-detail-value">
+41 %
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price / 1 y.</span>
+<span class="product-card-detail-value bg-emerald-100 px-2 rounded">
++8 %
+</span>
+</div>
+</div>
+</div>
+</a>
+<a href="/stocks/MCD.US" data-phx-link="patch" data-phx-link-state="push" id="stock-link-8fafdcb4-9ae7-4507-bc30-1990f596073a">
+<div id="stock-8fafdcb4-9ae7-4507-bc30-1990f596073a" class="product-card mb-1.5" data-modal-open="product-modal">
+<div class="product-card-left">
+<div class="product-card-icon">
+<img class="w-12" src="https://eodhistoricaldata.com/img/logos/US/MCD.png" alt="product">
+</div>
+<div class="w-64 xl:w-80">
+<h6 class="product-card-suptitle">
+MCD •
+US •
+Consumer discretionary
+</h6>
+<h5 class="product-card-title truncate">McDonald’s Corporation</h5>
+</div>
+</div>
+<div class="product-card-right">
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price</span>
+<span class="product-card-detail-value">
+$271
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Yield</span>
+<span class="product-card-detail-value">
+2.31 %
+</span>
+</div>
+<div class="product-card-details">
+<span class="product-card-detail-name">Dividend strk.</span>
+<span class="product-card-detail-value ">
++ 30 yr.
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Payout ratio</span>
+<span class="product-card-detail-value">
+57 %
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price / 1 y.</span>
+<span class="product-card-detail-value bg-emerald-100 px-2 rounded">
++23 %
+</span>
+</div>
+</div>
+</div>
+</a>
+<a href="/stocks/PG.US" data-phx-link="patch" data-phx-link-state="push" id="stock-link-a24ee896-a278-4631-8bee-9d4596ed09de">
+<div id="stock-a24ee896-a278-4631-8bee-9d4596ed09de" class="product-card mb-1.5" data-modal-open="product-modal">
+<div class="product-card-left">
+<div class="product-card-icon">
+<img class="w-12" src="https://eodhistoricaldata.com/img/logos/US/PG.png" alt="product">
+</div>
+<div class="w-64 xl:w-80">
+<h6 class="product-card-suptitle">
+PG •
+US •
+Consumer staples
+</h6>
+<h5 class="product-card-title truncate">Procter &amp; Gamble Company</h5>
+</div>
+</div>
+<div class="product-card-right">
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price</span>
+<span class="product-card-detail-value">
+$140
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Yield</span>
+<span class="product-card-detail-value">
+2.65 %
+</span>
+</div>
+<div class="product-card-details">
+<span class="product-card-detail-name">Dividend strk.</span>
+<span class="product-card-detail-value ">
++ 30 yr.
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Payout ratio</span>
+<span class="product-card-detail-value">
+64 %
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price / 1 y.</span>
+<span class="product-card-detail-value bg-pink-100 px-2 rounded">
+-6 %
+</span>
+</div>
+</div>
+</div>
+</a>
+<a href="/stocks/PFE.US" data-phx-link="patch" data-phx-link-state="push" id="stock-link-4ba5ee84-0f76-4e92-beb6-6cc880a66914">
+<div id="stock-4ba5ee84-0f76-4e92-beb6-6cc880a66914" class="product-card mb-1.5" data-modal-open="product-modal">
+<div class="product-card-left">
+<div class="product-card-icon">
+<img class="w-12" src="https://eodhistoricaldata.com/img/logos/US/pfe.png" alt="product">
+</div>
+<div class="w-64 xl:w-80">
+<h6 class="product-card-suptitle">
+PFE •
+US •
+Healthcare
+</h6>
+<h5 class="product-card-title truncate">Pfizer Inc</h5>
+</div>
+</div>
+<div class="product-card-right">
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price</span>
+<span class="product-card-detail-value">
+$41.11
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Yield</span>
+<span class="product-card-detail-value">
+4.08 %
+</span>
+</div>
+<div class="product-card-details">
+<span class="product-card-detail-name">Dividend strk.</span>
+<span class="product-card-detail-value ">
++ 30 yr.
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Payout ratio</span>
+<span class="product-card-detail-value">
+24 %
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price / 1 y.</span>
+<span class="product-card-detail-value bg-pink-100 px-2 rounded">
+-11 %
+</span>
+</div>
+</div>
+</div>
+</a>
+<a href="/stocks/V.US" data-phx-link="patch" data-phx-link-state="push" id="stock-link-96ddabcd-9c23-41e4-bcf3-2cd4b6a15a8a">
+<div id="stock-96ddabcd-9c23-41e4-bcf3-2cd4b6a15a8a" class="product-card mb-1.5" data-modal-open="product-modal">
+<div class="product-card-left">
+<div class="product-card-icon">
+<img class="w-12" src="https://eodhistoricaldata.com/img/logos/US/v.png" alt="product">
+</div>
+<div class="w-64 xl:w-80">
+<h6 class="product-card-suptitle">
+V •
+US •
+Financials
+</h6>
+<h5 class="product-card-title truncate">Visa Inc. Class A</h5>
+</div>
+</div>
+<div class="product-card-right">
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price</span>
+<span class="product-card-detail-value">
+$227
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Yield</span>
+<span class="product-card-detail-value">
+0.82 %
+</span>
+</div>
+<div class="product-card-details">
+<span class="product-card-detail-name">Dividend strk.</span>
+<span class="product-card-detail-value ">
+15 years
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Payout ratio</span>
+<span class="product-card-detail-value">
+21 %
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price / 1 y.</span>
+<span class="product-card-detail-value bg-emerald-100 px-2 rounded">
++20 %
+</span>
+</div>
+</div>
+</div>
+</a>
+<a href="/stocks/CVX.US" data-phx-link="patch" data-phx-link-state="push" id="stock-link-8818cc8e-ac43-4c85-8de3-68723a193a40">
+<div id="stock-8818cc8e-ac43-4c85-8de3-68723a193a40" class="product-card mb-1.5" data-modal-open="product-modal">
+<div class="product-card-left">
+<div class="product-card-icon">
+<img class="w-12" src="https://eodhistoricaldata.com/img/logos/US/cvx.png" alt="product">
+</div>
+<div class="w-64 xl:w-80">
+<h6 class="product-card-suptitle">
+CVX •
+US •
+Energy
+</h6>
+<h5 class="product-card-title truncate">Chevron Corp</h5>
+</div>
+</div>
+<div class="product-card-right">
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price</span>
+<span class="product-card-detail-value">
+$166
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Yield</span>
+<span class="product-card-detail-value">
+3.73 %
+</span>
+</div>
+<div class="product-card-details">
+<span class="product-card-detail-name">Dividend strk.</span>
+<span class="product-card-detail-value ">
++ 30 yr.
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Payout ratio</span>
+<span class="product-card-detail-value">
+31 %
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price / 1 y.</span>
+<span class="product-card-detail-value bg-emerald-100 px-2 rounded">
++6 %
+</span>
+</div>
+</div>
+</div>
+</a>
+<a href="/stocks/AMZN.US" data-phx-link="patch" data-phx-link-state="push" id="stock-link-1e40e350-a62e-42a2-92e7-3d237f54d168">
+<div id="stock-1e40e350-a62e-42a2-92e7-3d237f54d168" class="product-card mb-1.5" data-modal-open="product-modal">
+<div class="product-card-left">
+<div class="product-card-icon">
+<img class="w-12" src="https://eodhistoricaldata.com/img/logos/US/amzn.png" alt="product">
+</div>
+<div class="w-64 xl:w-80">
+<h6 class="product-card-suptitle">
+AMZN •
+US •
+Consumer discretionary
+</h6>
+<h5 class="product-card-title truncate">Amazon.com Inc</h5>
+</div>
+</div>
+<div class="product-card-right">
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price</span>
+<span class="product-card-detail-value">
+$93.75
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Yield</span>
+<span class="product-card-detail-value">
+0.0 %
+</span>
+</div>
+<div class="product-card-details">
+<span class="product-card-detail-name">Dividend strk.</span>
+<span class="product-card-detail-value ">
+-
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Payout ratio</span>
+<span class="product-card-detail-value">
+0 %
+</span>
+</div>
+<div class="product-card-details ">
+<span class="product-card-detail-name">Price / 1 y.</span>
+<span class="product-card-detail-value bg-pink-100 px-2 rounded">
+-32 %
+</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+<a href="/stocks/cursor/g3QAAAACZAACaWRtAAAAJDFlNDBlMzUwLWE2MmUtNDJhMi05MmU3LTNkMjM3ZjU0ZDE2OGQAD3BvcHVsYXJpdHlfcmFua2IAAA1L">Next stocks</a>
+</div>
+</div>
+</form>
+<div class="modal modal-fluid js-product-modal is-animated" id="stock-details-modal" aria-labelledby="product-modal" role="dialog" aria-modal="true" data-modal="product-modal" phx-hook="StockModal" style="display: block;" data-ticker-exchange="AAPL.US">
+<div class="modal-wrap js-modal-wrap">
+<div class="modal-content js-modal-content">
+<div class="flex flex-col h-screen" id="stock_details_component" phx-window-keydown="close" phx-key="escape" phx-target="#stock_details_component" phx-page-loading phx-hook="Tooltips">
+<div class="js-product-modal-header pb-8">
+<div class="bg-gray-50">
+<div class="container px-4 py-8 flex flex-wrap justify-between">
+<div class="lg:w-auto w-full lg:mb-0 mb-2 flex justify-between items-center">
+<div class="flex items-center mr-4">
+<img class="w-10 mr-3" src="https://eodhistoricaldata.com/img/logos/US/aapl.png" alt="logo">
+<h1 class="sm:text-2xl text-lg font-bold">Apple Inc</h1>
+</div>
+<div class="lg:hidden block">
+<span class="text-xl text-gray-500 font-semibold" data-tooltip-template="latest-price-template">
+$154
+</span>
+</div>
+</div>
+<div class="lg:w-auto w-full flex items-center justify-end">
+<div class="lg:block hidden">
+<span class="text-xl text-gray-500 font-semibold mr-4" data-tooltip-template="latest-price-template">
+$154
+</span>
+</div>
+<a href="/stocks" data-phx-link="patch" data-phx-link-state="push" class="font-medium leading-none inline-flex justify-center items-center text-sm transition duration-300 border bg-sky-500 text-white border-transparent hover:bg-sky-400 active:bg-sky-600 px-4 rounded-md sm:w-auto ml-3" id="stock-modal-close-btn">
+<div class="mr-2">
+<i class="fal fa-times"></i>
+</div>
+<span class="py-3">
+Close
+</span>
+</a>
+</div>
+<div id="latest-price-template" class="hidden">
+€144
+</div>
+</div>
+</div>
+<nav class="product-modal-nav js-product-modal-nav" id="productModalNav" phx-hook="ProductModalNav">
+<div class="container lg:px-4">
+<div class="product-modal-nav-wrap">
+<a class="product-modal-nav-link internal" href="#stats">
+Statistics
+</a>
+<a class="product-modal-nav-link internal" href="#aboutProd">
+About
+</a>
+<a class="product-modal-nav-link internal" href="#priceOver">
+Price
+</a>
+<a class="product-modal-nav-link internal" href="#performanceComparsion">
+Performance
+</a>
+<a class="product-modal-nav-link internal" href="#devidendHistory">
+Dividends
+</a>
+<a class="product-modal-nav-link internal" href="#financials">
+Financials
+</a>
+<a class="product-modal-nav-link internal" href="#yearOverYear">
+Growth
+</a>
+<a class="product-modal-nav-link internal" href="#profitability">
+Profitability
+</a>
+<a class="product-modal-nav-link internal" href="#health">
+Health
+</a>
+<a class="product-modal-nav-link internal" href="#valuation">
+Valuation
+</a>
+<a class="product-modal-nav-link internal" href="#stock_news">
+News
+</a>
+</div>
+</div>
+</nav>
+</div>
+<div class="container flex flex-wrap px-4 flex-1 overflow-auto">
+<div class="xl:w-8/12 w-full xl:pr-5 lx:pb-0 pb-16 h-full overflow-auto js-product-modal-content">
+<div class="mb-8" id="stats">
+<div class="flex items-center border-b border-gray-200 pb-4 mb-4">
+<img class="mr-3" src="https://cdn.moning.co/icons/stats.svg" alt="stats">
+<h4 class="text-lg font-medium text-gray-900">
+Statistics
+</h4>
+</div>
+<div class="stats-display mb-2.5">
+<div class="stats-display-item border-gray-200">
+<figure class="stats-display-icon" style="background-image: url(/images/stats-icons/stats.svg)">
+</figure>
+<div class="text-left">
+<h6 class="stats-display-title">Yield</h6>
+<p class="stats-display-text">
+0.63%
+</p>
+</div>
+</div>
+<div class="stats-display-item border-gray-200 " data-tooltip="⭐️">
+<figure class="stats-display-icon" style="background-image: url(/images/stats-icons/shield.svg)"></figure>
+<div class="text-left">
+<a href="/auth">
+<h6 class="stats-display-title">Dividend safety</h6>
+<span class="stats-display-text inline-flex px-3 py-1 text-sm font-medium leading-none bg-yellow-200 text-emerald-800 rounded-sm">
+<i class="fas fa-lock mr-2"></i> Unlock
+</span>
+</a>
+</div>
+</div>
+<div class="stats-display-item border-gray-200 " data-tooltip="⭐️">
+<figure class="stats-display-icon" style="background-image: url(/images/stats-icons/check.svg)"></figure>
+<div class="text-left">
+<a href="/auth">
+<h6 class="stats-display-title">Growth score</h6>
+<span class="stats-display-text inline-flex px-3 py-1 text-sm font-medium leading-none bg-yellow-200 text-emerald-800 rounded-sm">
+<i class="fas fa-lock mr-2"></i> Unlock
+</span>
+</a>
+</div>
+</div>
+<div class="stats-display-item border-transparent">
+<figure class="stats-display-icon" style="background-image: url(/images/stats-icons/growth.svg)">
+</figure>
+<div class="text-left">
+<h6 class="stats-display-title">
+Dividend growth last 5 y.
+</h6>
+<p class="stats-display-text">
+8% / year
+</p>
+</div>
+</div>
+</div>
+<div class="stats-display">
+<div class="stats-display-item border-gray-200">
+<figure class="stats-display-icon" style="background-image: url(/images/stats-icons/globe.svg)">
+</figure>
+<div class="text-left">
+<h6 class="stats-display-title">Market Cap</h6>
+<p class="stats-display-text">
+2 trillion
+</p>
+</div>
+</div>
+<div class="stats-display-item border-gray-200">
+<figure class="stats-display-icon" style="background-image: url(/images/stats-icons/ratio.svg)">
+ </figure>
+<div class="text-left">
+<h6 class="stats-display-title">PE Ratio</h6>
+<p class="stats-display-text">
+24.68 x
+</p>
+</div>
+</div>
+<div class="stats-display-item border-gray-200">
+<figure class="stats-display-icon" style="background-image: url(/images/stats-icons/scales.svg)">
+</figure>
+<div class="text-left">
+<h6 class="stats-display-title">
+Beta (volatility)
+</h6>
+<p class="stats-display-text">
+1.28
+</p>
+</div>
+</div>
+<div class="stats-display-item border-transparent">
+<figure class="stats-display-icon" style="background-image: url(/images/stats-icons/earnings.svg)">
+</figure>
+<div class="text-left">
+<h6 class="stats-display-title">
+Earnings Per Share
+</h6>
+<p class="stats-display-text">
+6.12
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="mb-8" id="aboutProd">
+<div class="flex items-center border-b border-gray-200 pb-4 mb-4">
+<img class="mr-3" src="https://cdn.moning.co/icons/stats.svg" alt="stats">
+<h4 class="text-lg font-medium text-gray-900">
+About
+</h4>
+</div>
+<p class="text-base text-gray-500 leading-8 mb-4">
+<strong>ISIN :</strong> US0378331005
+</p>
+<div class="js-read-more relative">
+<div class="overflow-hidden">
+<article class="text-base text-gray-500 leading-8">Apple Inc.<br>
+designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide.<br>
+It also sells various related services.<br>
+The company offers iPhone, a line of smartphones; Mac, a line of personal computers; </article>
+</div>
+<div class="relative flex justify-center z-10 mt-4">
+<span class="absolute left-0 top-1/2 transform -translate-y-1/2 w-full bg-gray-200" style="height: 1px; z-index: -1"></span>
+<a phx-click="read_more" phx-target="2" class="font-medium leading-none inline-flex justify-center items-center text-sm transition duration-300 border bg-white text-black border-gray-300 hover:bg-gray-200 active:bg-gray-300 px-4 rounded-full cursor-pointer js-read-more-btn">
+<div class="mr-2"><span class="text-xl font-bold text-gray-300">+</span></div>
+<span class="py-3">
+Read more
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="mb-8" id="priceOver">
+<div class="flex items-center border-b border-gray-200 pb-4 mb-4">
+<img class="mr-3" src="https://cdn.moning.co/icons/growth.svg" alt="growth">
+<h4 class="text-lg font-medium text-gray-900">
+Price over 10 years
+</h4>
+</div>
+<div>
+<canvas id="priceChart" phx-hook="StockPriceGraph" data-graph="[{&quot;x&quot;:&quot;2007-03-08&quot;,&quot;y&quot;:&quot;2.675&quot;},{&quot;x&quot;:&quot;2007-03-28&quot;,&quot;y&quot;:&quot;2.8343&quot;},{&quot;x&quot;:&quot;2007-04-18&quot;,&quot;y&quot;:&quot;2.748&quot;},{&quot;x&quot;:&quot;2007-05-08&quot;,&quot;y&quot;:&quot;3.1935&quot;},{&quot;x&quot;:&quot;2007-05-29&quot;,&quot;y&quot;:&quot;3.4759&quot;},{&quot;x&quot;:&quot;2007-06-18&quot;,&quot;y&quot;:&quot;3.8024&quot;},{&quot;x&quot;:&quot;2007-07-09&quot;,&quot;y&quot;:&quot;3.9617&quot;},{&quot;x&quot;:&quot;2007-07-27&quot;,&quot;y&quot;:&quot;4.3727&quot;},{&quot;x&quot;:&quot;2007-08-16&quot;,&quot;y&quot;:&quot;3.5581&quot;},{&quot;x&quot;:&quot;2007-09-06&quot;,&quot;y&quot;:&quot;4.104&quot;},{&quot;x&quot;:&quot;2007-09-26&quot;,&quot;y&quot;:&quot;4.6438&quot;},{&quot;x&quot;:&quot;2007-10-16&quot;,&quot;y&quot;:&quot;5.1548&quot;},{&quot;x&quot;:&quot;2007-11-05&quot;,&quot;y&quot;:&quot;5.6594&quot;},{&quot;x&quot;:&quot;2007-11-26&quot;,&quot;y&quot;:&quot;5.2447&quot;},{&quot;x&quot;:&quot;2007-12-14&quot;,&quot;y&quot;:&quot;5.7873&quot;},{&quot;x&quot;:&quot;2008-01-07&quot;,&quot;y&quot;:&quot;5.3998&quot;},{&quot;x&quot;:&quot;2008-01-28&quot;,&quot;y&quot;:&quot;3.952&quot;},{&quot;x&quot;:&quot;2008-02-15&quot;,&quot;y&quot;:&quot;3.7885&quot;},{&quot;x&quot;:&quot;2008-03-07&quot;,&quot;y&quot;:&quot;3.7161&quot;},{&quot;x&quot;:&quot;2008-03-28&quot;,&quot;y&quot;:&quot;4.3471&quot;},{&quot;x&quot;:&quot;2008-04-17&quot;,&quot;y&quot;:&quot;4.6961&quot;},{&quot;x&quot;:&quot;2008-05-07&quot;,&quot;y&quot;:&quot;5.5503&quot;},{&quot;x&quot;:&quot;2008-05-28&quot;,&quot;y&quot;:&quot;5.6846&quot;},{&quot;x&quot;:&quot;2008-06-17&quot;,&quot;y&quot;:&quot;5.515&quot;},{&quot;x&quot;:&quot;2008-07-08&quot;,&quot;y&quot;:&quot;5.4579&quot;},{&quot;x&quot;:&quot;2008-07-28&quot;,&quot;y&quot;:&quot;4.6934&quot;},{&quot;x&quot;:&quot;2008-08-15&quot;,&quot;y&quot;:&quot;5.342&quot;},{&quot;x&quot;:&quot;2008-09-05&quot;,&quot;y&quot;:&quot;4.8691&quot;},{&quot;x&quot;:&quot;2008-09-25&quot;,&quot;y&quot;:&quot;4.0104&quot;},{&quot;x&quot;:&quot;2008-10-15&quot;,&quot;y&quot;:&quot;2.9774&quot;},{&quot;x&quot;:&quot;2008-11-04&quot;,&quot;y&quot;:&quot;3.3738&quot;},{&quot;x&quot;:&quot;2008-11-24&quot;,&quot;y&quot;:&quot;2.8254&quot;},{&quot;x&quot;:&quot;2008-12-15&quot;,&quot;y&quot;:&quot;2.8801&quot;},{&quot;x&quot;:&quot;2009-01-06&quot;,&quot;y&quot;:&quot;2.8275&quot;},{&quot;x&quot;:&quot;2009-01-27&quot;,&quot;y&quot;:&quot;2.758&quot;},{&quot;x&quot;:&quot;2009-02-17&quot;,&quot;y&quot;:&quot;2.8735&quot;},{&quot;x&quot;:&quot;2009-03-09&quot;,&quot;y&quot;:&quot;2.5263&quot;},{&quot;x&quot;:&quot;2009-03-27&quot;,&quot;y&quot;:&quot;3.248&quot;},{&quot;x&quot;:&quot;2009-04-17&quot;,&quot;y&quot;:&quot;3.7517&quot;},{&quot;x&quot;:&quot;2009-05-07&quot;,&quot;y&quot;:&quot;3.9231&quot;},{&quot;x&quot;:&quot;2009-05-28&quot;,&quot;y&quot;:&quot;4.1058&quot;},{&quot;x&quot;:&quot;2009-06-17&quot;,&quot;y&quot;:&quot;4.1213&quot;},{&quot;x&quot;:&quot;2009-07-08&quot;,&quot;y&quot;:&quot;4.1711&quot;},{&quot;x&quot;:&quot;2009-07-28&quot;,&quot;y&quot;:&quot;4.8636&quot;},{&quot;x&quot;:&quot;2009-08-17&quot;,&quot;y&quot;:&quot;4.8511&quot;},{&quot;x&quot;:&quot;2009-09-04&quot;,&quot;y&quot;:&quot;5.177&quot;},{&quot;x&quot;:&quot;2009-09-25&quot;,&quot;y&quot;:&quot;5.5436&quot;},{&quot;x&quot;:&quot;2009-10-15&quot;,&quot;y&quot;:&quot;5.7925&quot;},{&quot;x&quot;:&quot;2009-11-04&quot;,&quot;y&quot;:&quot;5.8001&quot;},{&quot;x&quot;:&quot;2009-11-24&quot;,&quot;y&quot;:&quot;6.2144&quot;},{&quot;x&quot;:&quot;2009-12-15&quot;,&quot;y&quot;:&quot;5.9022&quot;},{&quot;x&quot;:&quot;2010-01-06&quot;,&quot;y&quot;:&quot;6.4129&quot;},{&quot;x&quot;:&quot;2010-01-27&quot;,&quot;y&quot;:&quot;6.319&quot;},{&quot;x&quot;:&quot;2010-02-17&quot;,&quot;y&quot;:&quot;6.157&quot;},{&quot;x&quot;:&quot;2010-03-09&quot;,&quot;y&quot;:&quot;6.7792&quot;},{&quot;x&quot;:&quot;2010-03-29&quot;,&quot;y&quot;:&quot;7.064&quot;},{&quot;x&quot;:&quot;2010-04-19&quot;,&quot;y&quot;:&quot;7.5103&quot;},{&quot;x&quot;:&quot;2010-05-07&quot;,&quot;y&quot;:&quot;7.1696&quot;},{&quot;x&quot;:&quot;2010-05-27&quot;,&quot;y&quot;:&quot;7.7012&quot;},{&quot;x&quot;:&quot;2010-06-17&quot;,&quot;y&quot;:&quot;8.2641&quot;},{&quot;x&quot;:&quot;2010-07-08&quot;,&quot;y&quot;:&quot;7.8453&quot;},{&quot;x&quot;:&quot;2010-07-28&quot;,&quot;y&quot;:&quot;7.9325&quot;},{&quot;x&quot;:&quot;2010-08-17&quot;,&quot;y&quot;:&quot;7.6592&quot;},{&quot;x&quot;:&quot;2010-09-07&quot;,&quot;y&quot;:&quot;7.8368&quot;},{&quot;x&quot;:&quot;2010-09-27&quot;,&quot;y&quot;:&quot;8.8506&quot;},{&quot;x&quot;:&quot;2010-10-15&quot;,&quot;y&quot;:&quot;9.5673&quot;},{&quot;x&quot;:&quot;2010-11-04&quot;,&quot;y&quot;:&quot;9.6746&quot;},{&quot;x&quot;:&quot;2010-11-24&quot;,&quot;y&quot;:&quot;9.5692&quot;},{&quot;x&quot;:&quot;2010-12-15&quot;,&quot;y&quot;:&quot;9.7381&quot;},{&quot;x&quot;:&quot;2011-01-05&quot;,&quot;y&quot;:&quot;10.1528&quot;},{&quot;x&quot;:&quot;2011-01-26&quot;,&quot;y&quot;:&quot;10.4522&quot;},{&quot;x&quot;:&quot;2011-02-15&quot;,&quot;y&quot;:&quot;10.9401&quot;},{&quot;x&quot;:&quot;2011-03-08&quot;,&quot;y&quot;:&quot;10.8142&quot;},{&quot;x&quot;:&quot;2011-03-28&quot;,&quot;y&quot;:&quot;10.6525&quot;},{&quot;x&quot;:&quot;2011-04-15&quot;,&quot;y&quot;:&quot;9.954&quot;},{&quot;x&quot;:&quot;2011-05-06&quot;,&quot;y&quot;:&quot;10.5376&quot;},{&quot;x&quot;:&quot;2011-05-26&quot;,&quot;y&quot;:&quot;10.1832&quot;},{&quot;x&quot;:&quot;2011-06-16&quot;,&quot;y&quot;:&quot;9.8841&quot;},{&quot;x&quot;:&quot;2011-07-07&quot;,&quot;y&quot;:&quot;10.8579&quot;},{&quot;x&quot;:&quot;2011-07-27&quot;,&quot;y&quot;:&quot;11.9338&quot;},{&quot;x&quot;:&quot;2011-08-16&quot;,&quot;y&quot;:&quot;11.5657&quot;},{&quot;x&quot;:&quot;2011-09-06&quot;,&quot;y&quot;:&quot;11.5431&quot;},{&quot;x&quot;:&quot;2011-09-26&quot;,&quot;y&quot;:&quot;12.2553&quot;},{&quot;x&quot;:&quot;2011-10-14&quot;,&quot;y&quot;:&quot;12.8277&quot;},{&quot;x&quot;:&quot;2011-11-03&quot;,&quot;y&quot;:&quot;12.2524&quot;},{&quot;x&quot;:&quot;2011-11-23&quot;,&quot;y&quot;:&quot;11.1556&quot;},{&quot;x&quot;:&quot;2011-12-14&quot;,&quot;y&quot;:&quot;11.5568&quot;},{&quot;x&quot;:&quot;2012-01-05&quot;,&quot;y&quot;:&quot;12.707&quot;},{&quot;x&quot;:&quot;2012-01-26&quot;,&quot;y&quot;:&quot;13.5156&quot;},{&quot;x&quot;:&quot;2012-02-15&quot;,&quot;y&quot;:&quot;15.1279&quot;},{&quot;x&quot;:&quot;2012-03-07&quot;,&quot;y&quot;:&quot;16.1316&quot;},{&quot;x&quot;:&quot;2012-03-27&quot;,&quot;y&quot;:&quot;18.6786&quot;},{&quot;x&quot;:&quot;2012-04-17&quot;,&quot;y&quot;:&quot;18.5333&quot;},{&quot;x&quot;:&quot;2012-05-07&quot;,&quot;y&quot;:&quot;17.3108&quot;},{&quot;x&quot;:&quot;2012-05-25&quot;,&quot;y&quot;:&quot;17.0922&quot;},{&quot;x&quot;:&quot;2012-06-15&quot;,&quot;y&quot;:&quot;17.4521&quot;},{&quot;x&quot;:&quot;2012-07-06&quot;,&quot;y&quot;:&quot;18.4173&quot;},{&quot;x&quot;:&quot;2012-07-26&quot;,&quot;y&quot;:&quot;17.4749&quot;},{&quot;x&quot;:&quot;2012-08-15&quot;,&quot;y&quot;:&quot;19.2579&quot;},{&quot;x&quot;:&quot;2012-09-05&quot;,&quot;y&quot;:&quot;20.4608&quot;},{&quot;x&quot;:&quot;2012-09-25&quot;,&quot;y&quot;:&quot;20.5618&quot;},{&quot;x&quot;:&quot;2012-10-15&quot;,&quot;y&quot;:&quot;19.3779&quot;},{&quot;x&quot;:&quot;2012-11-06&quot;,&quot;y&quot;:&quot;17.7932&quot;},{&quot;x&quot;:&quot;2012-11-27&quot;,&quot;y&quot;:&quot;17.9336&quot;},{&quot;x&quot;:&quot;2012-12-17&quot;,&quot;y&quot;:&quot;15.9111&quot;},{&quot;x&quot;:&quot;2013-01-08&quot;,&quot;y&quot;:&quot;16.1099&quot;},{&quot;x&quot;:&quot;2013-01-29&quot;,&quot;y&quot;:&quot;14.0539&quot;},{&quot;x&quot;:&quot;2013-02-19&quot;,&quot;y&quot;:&quot;14.1888&quot;},{&quot;x&quot;:&quot;2013-03-11&quot;,&quot;y&quot;:&quot;13.5065&quot;},{&quot;x&quot;:&quot;2013-04-01&quot;,&quot;y&quot;:&quot;13.2301&quot;},{&quot;x&quot;:&quot;2013-04-19&quot;,&quot;y&quot;:&quot;12.0463&quot;},{&quot;x&quot;:&quot;2013-05-09&quot;,&quot;y&quot;:&quot;14.1827&quot;},{&quot;x&quot;:&quot;2013-05-30&quot;,&quot;y&quot;:&quot;14.0216&quot;},{&quot;x&quot;:&quot;2013-06-19&quot;,&quot;y&quot;:&quot;13.1341&quot;},{&quot;x&quot;:&quot;2013-07-10&quot;,&quot;y&quot;:&quot;13.0637&quot;},{&quot;x&quot;:&quot;2013-07-30&quot;,&quot;y&quot;:&quot;14.0756&quot;},{&quot;x&quot;:&quot;2013-08-19&quot;,&quot;y&quot;:&quot;15.8695&quot;},{&quot;x&quot;:&quot;2013-09-09&quot;,&quot;y&quot;:&quot;15.8204&quot;},{&quot;x&quot;:&quot;2013-09-27&quot;,&quot;y&quot;:&quot;15.0884&quot;},{&quot;x&quot;:&quot;2013-10-17&quot;,&quot;y&quot;:&quot;15.7682&quot;},{&quot;x&quot;:&quot;2013-11-06&quot;,&quot;y&quot;:&quot;16.3764&quot;},{&quot;x&quot;:&quot;2013-11-26&quot;,&quot;y&quot;:&quot;16.7687&quot;},{&quot;x&quot;:&quot;2013-12-17&quot;,&quot;y&quot;:&quot;17.4475&quot;},{&quot;x&quot;:&quot;2014-01-08&quot;,&quot;y&quot;:&quot;17.085&quot;},{&quot;x&quot;:&quot;2014-01-29&quot;,&quot;y&quot;:&quot;15.7423&quot;},{&quot;x&quot;:&quot;2014-02-19&quot;,&quot;y&quot;:&quot;16.9947&quot;},{&quot;x&quot;:&quot;2014-03-11&quot;,&quot;y&quot;:&quot;16.9542&quot;},{&quot;x&quot;:&quot;2014-03-31&quot;,&quot;y&quot;:&quot;16.9747&quot;},{&quot;x&quot;:&quot;2014-04-21&quot;,&quot;y&quot;:&quot;16.7986&quot;},{&quot;x&quot;:&quot;2014-05-09&quot;,&quot;y&quot;:&quot;18.6214&quot;},{&quot;x&quot;:&quot;2014-05-30&quot;,&quot;y&quot;:&quot;20.1308&quot;},{&quot;x&quot;:&quot;2014-06-19&quot;,&quot;y&quot;:&quot;20.4495&quot;},{&quot;x&quot;:&quot;2014-07-10&quot;,&quot;y&quot;:&quot;21.1574&quot;},{&quot;x&quot;:&quot;2014-07-30&quot;,&quot;y&quot;:&quot;21.8497&quot;},{&quot;x&quot;:&quot;2014-08-19&quot;,&quot;y&quot;:&quot;22.4909&quot;},{&quot;x&quot;:&quot;2014-09-09&quot;,&quot;y&quot;:&quot;21.9226&quot;},{&quot;x&quot;:&quot;2014-09-29&quot;,&quot;y&quot;:&quot;22.3969&quot;},{&quot;x&quot;:&quot;2014-10-17&quot;,&quot;y&quot;:&quot;21.851&quot;},{&quot;x&quot;:&quot;2014-11-06&quot;,&quot;y&quot;:&quot;24.4241&quot;},{&quot;x&quot;:&quot;2014-11-26&quot;,&quot;y&quot;:&quot;26.7385&quot;},{&quot;x&quot;:&quot;2014-12-17&quot;,&quot;y&quot;:&quot;24.5837&quot;},{&quot;x&quot;:&quot;2015-01-08&quot;,&quot;y&quot;:&quot;25.1409&quot;},{&quot;x&quot;:&quot;2015-01-29&quot;,&quot;y&quot;:&quot;26.716&quot;},{&quot;x&quot;:&quot;2015-02-19&quot;,&quot;y&quot;:&quot;28.9757&quot;},{&quot;x&quot;:&quot;2015-03-11&quot;,&quot;y&quot;:&quot;27.5749&quot;},{&quot;x&quot;:&quot;2015-03-31&quot;,&quot;y&quot;:&quot;28.0689&quot;},{&quot;x&quot;:&quot;2015-04-21&quot;,&quot;y&quot;:&quot;28.6283&quot;},{&quot;x&quot;:&quot;2015-05-11&quot;,&quot;y&quot;:&quot;28.6143&quot;},{&quot;x&quot;:&quot;2015-06-01&quot;,&quot;y&quot;:&quot;29.5702&quot;},{&quot;x&quot;:&quot;2015-06-19&quot;,&quot;y&quot;:&quot;28.6777&quot;},{&quot;x&quot;:&quot;2015-07-10&quot;,&quot;y&quot;:&quot;27.9256&quot;},{&quot;x&quot;:&quot;2015-07-30&quot;,&quot;y&quot;:&quot;27.7195&quot;},{&quot;x&quot;:&quot;2015-08-19&quot;,&quot;y&quot;:&quot;26.1702&quot;},{&quot;x&quot;:&quot;2015-09-09&quot;,&quot;y&quot;:&quot;25.0644&quot;},{&quot;x&quot;:&quot;2015-09-29&quot;,&quot;y&quot;:&quot;24.8163&quot;},{&quot;x&quot;:&quot;2015-10-19&quot;,&quot;y&quot;:&quot;25.4239&quot;},{&quot;x&quot;:&quot;2015-11-06&quot;,&quot;y&quot;:&quot;27.6648&quot;},{&quot;x&quot;:&quot;2015-11-27&quot;,&quot;y&quot;:&quot;26.9221&quot;},{&quot;x&quot;:&quot;2015-12-17&quot;,&quot;y&quot;:&quot;24.9043&quot;},{&quot;x&quot;:&quot;2016-01-08&quot;,&quot;y&quot;:&quot;22.1574&quot;},{&quot;x&quot;:&quot;2016-01-29&quot;,&quot;y&quot;:&quot;22.2443&quot;},{&quot;x&quot;:&quot;2016-02-19&quot;,&quot;y&quot;:&quot;22.0663&quot;},{&quot;x&quot;:&quot;2016-03-10&quot;,&quot;y&quot;:&quot;23.245&quot;},{&quot;x&quot;:&quot;2016-03-31&quot;,&quot;y&quot;:&quot;25.0417&quot;},{&quot;x&quot;:&quot;2016-04-20&quot;,&quot;y&quot;:&quot;24.6144&quot;},{&quot;x&quot;:&quot;2016-05-10&quot;,&quot;y&quot;:&quot;21.595&quot;},{&quot;x&quot;:&quot;2016-05-31&quot;,&quot;y&quot;:&quot;23.0837&quot;},{&quot;x&quot;:&quot;2016-06-20&quot;,&quot;y&quot;:&quot;21.9834&quot;},{&quot;x&quot;:&quot;2016-07-11&quot;,&quot;y&quot;:&quot;22.4179&quot;},{&quot;x&quot;:&quot;2016-07-29&quot;,&quot;y&quot;:&quot;24.0892&quot;},{&quot;x&quot;:&quot;2016-08-18&quot;,&quot;y&quot;:&quot;25.3516&quot;},{&quot;x&quot;:&quot;2016-09-08&quot;,&quot;y&quot;:&quot;24.5242&quot;},{&quot;x&quot;:&quot;2016-09-28&quot;,&quot;y&quot;:&quot;26.4834&quot;},{&quot;x&quot;:&quot;2016-10-18&quot;,&quot;y&quot;:&quot;27.3015&quot;},{&quot;x&quot;:&quot;2016-11-07&quot;,&quot;y&quot;:&quot;25.7924&quot;},{&quot;x&quot;:&quot;2016-11-28&quot;,&quot;y&quot;:&quot;26.0634&quot;},{&quot;x&quot;:&quot;2016-12-16&quot;,&quot;y&quot;:&quot;27.0913&quot;},{&quot;x&quot;:&quot;2017-01-09&quot;,&quot;y&quot;:&quot;27.7968&quot;},{&quot;x&quot;:&quot;2017-01-30&quot;,&quot;y&quot;:&quot;28.4135&quot;},{&quot;x&quot;:&quot;2017-02-17&quot;,&quot;y&quot;:&quot;31.8425&quot;},{&quot;x&quot;:&quot;2017-03-10&quot;,&quot;y&quot;:&quot;32.6448&quot;},{&quot;x&quot;:&quot;2017-03-30&quot;,&quot;y&quot;:&quot;33.7687&quot;},{&quot;x&quot;:&quot;2017-04-20&quot;,&quot;y&quot;:&quot;33.4191&quot;},{&quot;x&quot;:&quot;2017-05-10&quot;,&quot;y&quot;:&quot;35.9577&quot;},{&quot;x&quot;:&quot;2017-05-31&quot;,&quot;y&quot;:&quot;35.9883&quot;},{&quot;x&quot;:&quot;2017-06-20&quot;,&quot;y&quot;:&quot;34.1625&quot;},{&quot;x&quot;:&quot;2017-07-11&quot;,&quot;y&quot;:&quot;34.285&quot;},{&quot;x&quot;:&quot;2017-07-31&quot;,&quot;y&quot;:&quot;35.0389&quot;},{&quot;x&quot;:&quot;2017-08-18&quot;,&quot;y&quot;:&quot;37.2507&quot;},{&quot;x&quot;:&quot;2017-09-08&quot;,&quot;y&quot;:&quot;37.5179&quot;},{&quot;x&quot;:&quot;2017-09-28&quot;,&quot;y&quot;:&quot;36.2526&quot;},{&quot;x&quot;:&quot;2017-10-18&quot;,&quot;y&quot;:&quot;37.7852&quot;},{&quot;x&quot;:&quot;2017-11-07&quot;,&quot;y&quot;:&quot;41.3447&quot;},{&quot;x&quot;:&quot;2017-11-28&quot;,&quot;y&quot;:&quot;41.0803&quot;},{&quot;x&quot;:&quot;2017-12-18&quot;,&quot;y&quot;:&quot;41.8755&quot;},{&quot;x&quot;:&quot;2018-01-09&quot;,&quot;y&quot;:&quot;41.3794&quot;},{&quot;x&quot;:&quot;2018-01-30&quot;,&quot;y&quot;:&quot;39.6324&quot;},{&quot;x&quot;:&quot;2018-02-20&quot;,&quot;y&quot;:&quot;40.9571&quot;},{&quot;x&quot;:&quot;2018-03-12&quot;,&quot;y&quot;:&quot;43.3094&quot;},{&quot;x&quot;:&quot;2018-04-02&quot;,&quot;y&quot;:&quot;39.7249&quot;},{&quot;x&quot;:&quot;2018-04-20&quot;,&quot;y&quot;:&quot;39.4961&quot;},{&quot;x&quot;:&quot;2018-05-10&quot;,&quot;y&quot;:&quot;45.2923&quot;},{&quot;x&quot;:&quot;2018-05-31&quot;,&quot;y&quot;:&quot;44.7085&quot;},{&quot;x&quot;:&quot;2018-06-20&quot;,&quot;y&quot;:&quot;44.62&quot;},{&quot;x&quot;:&quot;2018-07-11&quot;,&quot;y&quot;:&quot;44.9502&quot;},{&quot;x&quot;:&quot;2018-07-31&quot;,&quot;y&quot;:&quot;45.5267&quot;},{&quot;x&quot;:&quot;2018-08-20&quot;,&quot;y&quot;:&quot;51.7294&quot;},{&quot;x&quot;:&quot;2018-09-10&quot;,&quot;y&quot;:&quot;52.4185&quot;},{&quot;x&quot;:&quot;2018-09-28&quot;,&quot;y&quot;:&quot;54.1975&quot;},{&quot;x&quot;:&quot;2018-10-18&quot;,&quot;y&quot;:&quot;51.8639&quot;},{&quot;x&quot;:&quot;2018-11-07&quot;,&quot;y&quot;:&quot;50.4066&quot;},{&quot;x&quot;:&quot;2018-11-28&quot;,&quot;y&quot;:&quot;43.5932&quot;},{&quot;x&quot;:&quot;2018-12-19&quot;,&quot;y&quot;:&quot;38.7626&quot;},{&quot;x&quot;:&quot;2019-01-10&quot;,&quot;y&quot;:&quot;37.0544&quot;},{&quot;x&quot;:&quot;2019-01-31&quot;,&quot;y&quot;:&quot;40.0997&quot;},{&quot;x&quot;:&quot;2019-02-21&quot;,&quot;y&quot;:&quot;41.3896&quot;},{&quot;x&quot;:&quot;2019-03-13&quot;,&quot;y&quot;:&quot;43.9664&quot;},{&quot;x&quot;:&quot;2019-04-02&quot;,&quot;y&quot;:&quot;46.945&quot;},{&quot;x&quot;:&quot;2019-04-23&quot;,&quot;y&quot;:&quot;50.2017&quot;},{&quot;x&quot;:&quot;2019-05-13&quot;,&quot;y&quot;:&quot;45.1097&quot;},{&quot;x&quot;:&quot;2019-06-03&quot;,&quot;y&quot;:&quot;42.093&quot;},{&quot;x&quot;:&quot;2019-06-21&quot;,&quot;y&quot;:&quot;48.2819&quot;},{&quot;x&quot;:&quot;2019-07-12&quot;,&quot;y&quot;:&quot;49.3798&quot;},{&quot;x&quot;:&quot;2019-08-01&quot;,&quot;y&quot;:&quot;50.6258&quot;},{&quot;x&quot;:&quot;2019-08-21&quot;,&quot;y&quot;:&quot;51.8446&quot;},{&quot;x&quot;:&quot;2019-09-11&quot;,&quot;y&quot;:&quot;54.5144&quot;},{&quot;x&quot;:&quot;2019-10-01&quot;,&quot;y&quot;:&quot;54.7582&quot;},{&quot;x&quot;:&quot;2019-10-21&quot;,&quot;y&quot;:&quot;58.6397&quot;},{&quot;x&quot;:&quot;2019-11-08&quot;,&quot;y&quot;:&quot;63.6162&quot;},{&quot;x&quot;:&quot;2019-11-29&quot;,&quot;y&quot;:&quot;65.3549&quot;},{&quot;x&quot;:&quot;2019-12-19&quot;,&quot;y&quot;:&quot;68.4778&quot;},{&quot;x&quot;:&quot;2020-01-10&quot;,&quot;y&quot;:&quot;75.89&quot;},{&quot;x&quot;:&quot;2020-01-31&quot;,&quot;y&quot;:&quot;75.6894&quot;},{&quot;x&quot;:&quot;2020-02-21&quot;,&quot;y&quot;:&quot;76.7368&quot;},{&quot;x&quot;:&quot;2020-03-12&quot;,&quot;y&quot;:&quot;60.8477&quot;},{&quot;x&quot;:&quot;2020-04-01&quot;,&quot;y&quot;:&quot;59.0534&quot;},{&quot;x&quot;:&quot;2020-04-22&quot;,&quot;y&quot;:&quot;67.6794&quot;},{&quot;x&quot;:&quot;2020-05-12&quot;,&quot;y&quot;:&quot;76.5414&quot;},{&quot;x&quot;:&quot;2020-06-02&quot;,&quot;y&quot;:&quot;79.4737&quot;},{&quot;x&quot;:&quot;2020-06-22&quot;,&quot;y&quot;:&quot;88.2066&quot;},{&quot;x&quot;:&quot;2020-07-13&quot;,&quot;y&quot;:&quot;93.8696&quot;},{&quot;x&quot;:&quot;2020-07-31&quot;,&quot;y&quot;:&quot;104.4706&quot;},{&quot;x&quot;:&quot;2020-08-20&quot;,&quot;y&quot;:&quot;116.4929&quot;},{&quot;x&quot;:&quot;2020-09-10&quot;,&quot;y&quot;:&quot;111.78&quot;},{&quot;x&quot;:&quot;2020-09-30&quot;,&quot;y&quot;:&quot;114.065&quot;},{&quot;x&quot;:&quot;2020-10-20&quot;,&quot;y&quot;:&quot;115.7394&quot;},{&quot;x&quot;:&quot;2020-11-09&quot;,&quot;y&quot;:&quot;114.765&quot;},{&quot;x&quot;:&quot;2020-11-30&quot;,&quot;y&quot;:&quot;117.4585&quot;},{&quot;x&quot;:&quot;2020-12-18&quot;,&quot;y&quot;:&quot;124.9668&quot;},{&quot;x&quot;:&quot;2021-01-11&quot;,&quot;y&quot;:&quot;127.2558&quot;},{&quot;x&quot;:&quot;2021-02-01&quot;,&quot;y&quot;:&quot;132.3468&quot;},{&quot;x&quot;:&quot;2021-02-22&quot;,&quot;y&quot;:&quot;124.5014&quot;},{&quot;x&quot;:&quot;2021-03-12&quot;,&quot;y&quot;:&quot;119.5905&quot;},{&quot;x&quot;:&quot;2021-04-01&quot;,&quot;y&quot;:&quot;121.537&quot;},{&quot;x&quot;:&quot;2021-04-22&quot;,&quot;y&quot;:&quot;130.3707&quot;},{&quot;x&quot;:&quot;2021-05-12&quot;,&quot;y&quot;:&quot;121.5158&quot;},{&quot;x&quot;:&quot;2021-06-02&quot;,&quot;y&quot;:&quot;123.7824&quot;},{&quot;x&quot;:&quot;2021-06-22&quot;,&quot;y&quot;:&quot;132.6113&quot;},{&quot;x&quot;:&quot;2021-07-13&quot;,&quot;y&quot;:&quot;144.1522&quot;},{&quot;x&quot;:&quot;2021-08-02&quot;,&quot;y&quot;:&quot;144.0334&quot;},{&quot;x&quot;:&quot;2021-08-20&quot;,&quot;y&quot;:&quot;146.8959&quot;},{&quot;x&quot;:&quot;2021-09-10&quot;,&quot;y&quot;:&quot;147.6691&quot;},{&quot;x&quot;:&quot;2021-09-30&quot;,&quot;y&quot;:&quot;140.2643&quot;},{&quot;x&quot;:&quot;2021-10-20&quot;,&quot;y&quot;:&quot;147.9566&quot;},{&quot;x&quot;:&quot;2021-11-09&quot;,&quot;y&quot;:&quot;149.7112&quot;},{&quot;x&quot;:&quot;2021-11-30&quot;,&quot;y&quot;:&quot;164.0956&quot;},{&quot;x&quot;:&quot;2021-12-20&quot;,&quot;y&quot;:&quot;168.5132&quot;},{&quot;x&quot;:&quot;2022-01-10&quot;,&quot;y&quot;:&quot;170.9354&quot;},{&quot;x&quot;:&quot;2022-01-31&quot;,&quot;y&quot;:&quot;173.5066&quot;},{&quot;x&quot;:&quot;2022-02-18&quot;,&quot;y&quot;:&quot;166.2926&quot;},{&quot;x&quot;:&quot;2022-03-11&quot;,&quot;y&quot;:&quot;153.7983&quot;},{&quot;x&quot;:&quot;2022-03-31&quot;,&quot;y&quot;:&quot;173.5586&quot;},{&quot;x&quot;:&quot;2022-04-21&quot;,&quot;y&quot;:&quot;165.4179&quot;},{&quot;x&quot;:&quot;2022-05-11&quot;,&quot;y&quot;:&quot;145.8318&quot;},{&quot;x&quot;:&quot;2022-06-01&quot;,&quot;y&quot;:&quot;148.0318&quot;},{&quot;x&quot;:&quot;2022-06-22&quot;,&quot;y&quot;:&quot;134.7327&quot;},{&quot;x&quot;:&quot;2022-07-13&quot;,&quot;y&quot;:&quot;144.8265&quot;},{&quot;x&quot;:&quot;2022-08-02&quot;,&quot;y&quot;:&quot;159.2802&quot;},{&quot;x&quot;:&quot;2022-08-22&quot;,&quot;y&quot;:&quot;167.0375&quot;},{&quot;x&quot;:&quot;2022-09-12&quot;,&quot;y&quot;:&quot;162.9106&quot;},{&quot;x&quot;:&quot;2022-09-30&quot;,&quot;y&quot;:&quot;137.7608&quot;},{&quot;x&quot;:&quot;2022-10-20&quot;,&quot;y&quot;:&quot;142.9343&quot;},{&quot;x&quot;:&quot;2022-11-09&quot;,&quot;y&quot;:&quot;134.6644&quot;},{&quot;x&quot;:&quot;2022-11-30&quot;,&quot;y&quot;:&quot;147.8043&quot;},{&quot;x&quot;:&quot;2022-12-20&quot;,&quot;y&quot;:&quot;132.0983&quot;},{&quot;x&quot;:&quot;2023-01-11&quot;,&quot;y&quot;:&quot;133.2865&quot;},{&quot;x&quot;:&quot;2023-02-01&quot;,&quot;y&quot;:&quot;145.2083&quot;},{&quot;x&quot;:&quot;2023-02-22&quot;,&quot;y&quot;:&quot;148.91&quot;},{&quot;x&quot;:&quot;2023-03-06&quot;,&quot;y&quot;:&quot;153.83&quot;}]" data-currency="USD" data-prices-average="null" data-locale="en" data-maximum-fraction-digits="0" class="h-80 lg:h-128">
+</canvas>
+</div>
+</div>
+<div class="mb-8" id="performanceComparsion">
+<div class="flex items-center border-b border-gray-200 pb-4 mb-4">
+<img class="mr-3" src="https://cdn.moning.co/icons/performance.svg" alt="performance">
+<h4 class="text-lg font-medium text-gray-900">
+Performance Comparison
+</h4>
+</div>
+<div class="table-wrap">
+<table class="table-table">
+<thead>
+<tr class="table-head-tr text-center">
+<th class="table-th"></th>
+<th class="table-th">Apple Inc</th>
+</tr>
+</thead>
+<tbody>
+<tr class="table-body-tr text-center">
+<td class="table-td">
+<span class="text-base text-gray-900 text-left">
+1 year return
+</span>
+</td>
+<td class="table-td">
+<div class="inline-flex px-3 py-1 text-sm font-medium leading-none bg-pink-100 text-emerald-800 rounded-sm">
+-3 %
+</div>
+</td>
+</tr>
+<tr class="table-body-tr text-center">
+<td class="table-td">
+<span class="text-base text-gray-900 text-left">
+5 years return
+</span>
+</td>
+<td>
+<div class="inline-flex px-3 py-1 text-sm font-medium leading-none bg-emerald-100 text-emerald-800 rounded-sm">
++269 %
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="mb-8" id="competitors">
+<div class="flex items-center border-b border-gray-200 pb-4 mb-4">
+<img class="mr-3" src="https://cdn.moning.co/icons/performance.svg" alt="performance">
+<h4 class="text-lg font-medium text-gray-900">
+Competition
+</h4>
+</div>
+<div class="table-wrap">
+<table class="table-table">
+<thead>
+<tr class="table-head-tr text-center">
+<th class="table-th"></th>
+<th class="table-th">
+Apple Inc
+<img class="w-10 m-auto mt-3" src="https://eodhistoricaldata.com/img/logos/US/aapl.png" alt="logo">
+</th>
+<th class="table-th">
+<a href="/stocks/ANET.US">
+Arista Networks
+<img class="w-10 m-auto mt-3" src="https://eodhistoricaldata.com/img/logos/US/ANET.png" alt="logo">
+</a>
+</th>
+<th class="table-th">
+<a href="/stocks/MSI.US">
+Motorola Solutions Inc
+<img class="w-10 m-auto mt-3" src="https://eodhistoricaldata.com/img/logos/US/MSI.png" alt="logo">
+</a>
+</th>
+<th class="table-th">
+<a href="/stocks/APH.US">
+Amphenol Corporation
+<img class="w-10 m-auto mt-3" src="https://eodhistoricaldata.com/img/logos/US/aph.png" alt="logo">
+</a>
+</th>
+<th class="table-th">
+<a href="/stocks/CSCO.US">
+Cisco Systems Inc
+<img class="w-10 m-auto mt-3" src="https://eodhistoricaldata.com/img/logos/US/CSCO.png" alt="logo">
+</a>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr class="table-body-tr text-center">
+<td class="table-td">
+ <span class="text-base text-left">
+Market Cap
+</span>
+</td>
+<td class="table-td text-gray-500">
+2 trillion
+</td>
+<td class="table-td">
+43 billion
+</td>
+<td class="table-td">
+44 billion
+</td>
+<td class="table-td">
+47 billion
+</td>
+<td class="table-td">
+199 billion
+</td>
+</tr>
+<tr class="table-body-tr text-center">
+<td class="table-td">
+<span class="text-base text-gray-900 text-left">
+PER
+</span>
+</td>
+<td class="table-td text-gray-500">
+24.68 x
+</td>
+<td class="table-td">
+48.26 x
+</td>
+<td class="table-td">
+33.24 x
+</td>
+<td class="table-td">
+25.36 x
+</td>
+<td class="table-td">
+17.14 x
+</td>
+</tr>
+<tr class="table-body-tr text-center">
+<td class="table-td">
+<span class="text-base text-gray-900 text-left">
+Dividend yield
+</span>
+</td>
+<td class="table-td text-gray-500">
+0.63%
+</td>
+<td class="table-td">
+-
+</td>
+<td class="table-td">
+1.34%
+</td>
+<td class="table-td">
+1.08%
+</td>
+<td class="table-td">
+3.23%
+</td>
+</tr>
+<tr class="table-body-tr text-center">
+<td class="table-td">
+<span class="text-base text-gray-900 text-left">
+Dividend safety
+</span>
+</td>
+<td class="table-td">
+<span class="product-card-detail-value  px-2 rounded text-white">
+19
+</span>
+</td>
+<td class="table-td">
+<span class="product-card-detail-value  px-2 rounded text-white">
+-
+</span>
+</td>
+<td class="table-td">
+<span class="product-card-detail-value  px-2 rounded text-white">
+12
+</span>
+</td>
+<td class="table-td">
+<span class="product-card-detail-value  px-2 rounded text-white">
+17
+</span>
+</td>
+<td class="table-td">
+<span class="product-card-detail-value  px-2 rounded text-white">
+18
+</span>
+</td>
+</tr>
+<tr class="table-body-tr text-center">
+<td class="table-td">
+<span class="text-base text-gray-900 text-left">
+ Growth score
+</span>
+</td>
+<td class="table-td text-gray-500">
+<span class="product-card-detail-value  px-2 rounded text-white">
+13
+</span>
+</td>
+<td class="table-td">
+<span class="product-card-detail-value  px-2 rounded text-white">
+15
+</span>
+</td>
+<td class="table-td">
+<span class="product-card-detail-value  px-2 rounded text-white">
+11
+</span>
+</td>
+<td class="table-td">
+<span class="product-card-detail-value  px-2 rounded text-white">
+13
+</span>
+</td>
+<td class="table-td">
+<span class="product-card-detail-value  px-2 rounded text-white">
+9
+</span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="mb-8" id="stockValuation">
+<div class="flex items-center border-b border-gray-200 pb-4 mb-4">
+<img class="mr-3" src="https://cdn.moning.co/icons/clock.svg" alt="clock">
+<h4 class="text-lg font-medium text-gray-900">
+Valuation (BETA)
+</h4>
+</div>
+<div class="mb-4">
+<canvas id="valueChart" phx-hook="StockValueGraph" data-graph-theoritical="[{&quot;date&quot;:&quot;2017-01-01&quot;,&quot;value&quot;:48.401027783463995},{&quot;date&quot;:&quot;2018-01-01&quot;,&quot;value&quot;:52.516968729072325},{&quot;date&quot;:&quot;2019-01-01&quot;,&quot;value&quot;:65.38504635721047},{&quot;date&quot;:&quot;2020-01-01&quot;,&quot;value&quot;:67.19971004825751},{&quot;date&quot;:&quot;2021-01-01&quot;,&quot;value&quot;:77.38103270477458},{&quot;date&quot;:&quot;2022-01-01&quot;,&quot;value&quot;:106.53774155739046},{&quot;date&quot;:&quot;2023-01-01&quot;,&quot;value&quot;:120.33498438391914},{&quot;date&quot;:&quot;2024-01-01&quot;,&quot;value&quot;:139.5885818853462}]" data-graph-real="[{&quot;date&quot;:&quot;2017-01-01&quot;,&quot;value&quot;:27.0562},{&quot;date&quot;:&quot;2018-01-01&quot;,&quot;value&quot;:40.1689},{&quot;date&quot;:&quot;2019-01-01&quot;,&quot;value&quot;:38.0037},{&quot;date&quot;:&quot;2020-01-01&quot;,&quot;value&quot;:71.8109},{&quot;date&quot;:&quot;2021-01-01&quot;,&quot;value&quot;:130.9162},{&quot;date&quot;:&quot;2022-01-01&quot;,&quot;value&quot;:176.2762},{&quot;date&quot;:&quot;2023-01-01&quot;,&quot;value&quot;:129.7319},{&quot;date&quot;:&quot;2023-03-06&quot;,&quot;value&quot;:153.83}]" data-currency="$" data-locale="en" class="h-80 lg:h-128">
+</canvas>
+</div>
+<div class="mb-4 w-80 m-auto text-xs">
+<div class="mb-1">
+<div class="w-10 h-1 bg-black float-left mr-6 mt-2"></div>
+Real price of stock
+</div>
+<div class="mb-2">
+<div class="w-10 h-1 float-left mr-6 mt-2" style="background-color: #056DBF"></div>
+Theorical fair valuation
+</div>
+<div class="mb-1">
+<div class="w-10 h-3 float-left mr-6" style="background-color: rgba(247, 237, 82, 1)">
+</div>
+Potentially over-evaluated area
+</div>
+<div class="mb-1">
+<div class="w-10 h-3 float-left mr-6" style="background-color: rgba(164, 250, 110, 1)">
+</div>
+Potentially under-evaluated area
+</div>
+</div>
+</div>
+<div class="mb-8" id="devidendHistory">
+ <div class="flex items-center border-b border-gray-200 pb-4 mb-4">
+<img class="mr-3" src="https://cdn.moning.co/icons/clock.svg" alt="clock">
+<h4 class="text-lg font-medium text-gray-900">
+Dividend History
+</h4>
+</div>
+<div class="mb-4">
+<canvas id="dividendChart" phx-hook="StockDividendGraph" data-graph="[{&quot;count&quot;:2,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2012-08-09&quot;,&quot;payment_date&quot;:&quot;2012-08-16&quot;},{&quot;date&quot;:&quot;2012-11-07&quot;,&quot;payment_date&quot;:&quot;2012-11-15&quot;}],&quot;value&quot;:1892,&quot;year&quot;:2012},{&quot;count&quot;:4,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2013-02-07&quot;,&quot;payment_date&quot;:&quot;2013-02-14&quot;},{&quot;date&quot;:&quot;2013-05-09&quot;,&quot;payment_date&quot;:&quot;2013-05-16&quot;},{&quot;date&quot;:&quot;2013-08-08&quot;,&quot;payment_date&quot;:&quot;2013-08-15&quot;},{&quot;date&quot;:&quot;2013-11-06&quot;,&quot;payment_date&quot;:&quot;2013-11-14&quot;}],&quot;value&quot;:4213,&quot;year&quot;:2013},{&quot;count&quot;:4,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2014-02-06&quot;,&quot;payment_date&quot;:&quot;2014-02-13&quot;},{&quot;date&quot;:&quot;2014-05-08&quot;,&quot;payment_date&quot;:&quot;2014-05-15&quot;},{&quot;date&quot;:&quot;2014-08-07&quot;,&quot;payment_date&quot;:&quot;2014-08-14&quot;},{&quot;date&quot;:&quot;2014-11-06&quot;,&quot;payment_date&quot;:&quot;2014-11-13&quot;}],&quot;value&quot;:4614,&quot;year&quot;:2014},{&quot;count&quot;:4,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2015-02-05&quot;,&quot;payment_date&quot;:&quot;2015-02-12&quot;},{&quot;date&quot;:&quot;2015-05-07&quot;,&quot;payment_date&quot;:&quot;2015-05-14&quot;},{&quot;date&quot;:&quot;2015-08-06&quot;,&quot;payment_date&quot;:&quot;2015-08-13&quot;},{&quot;date&quot;:&quot;2015-11-05&quot;,&quot;payment_date&quot;:&quot;2015-11-12&quot;}],&quot;value&quot;:5075,&quot;year&quot;:2015},{&quot;count&quot;:4,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2016-02-04&quot;,&quot;payment_date&quot;:&quot;2016-02-11&quot;},{&quot;date&quot;:&quot;2016-05-05&quot;,&quot;payment_date&quot;:&quot;2016-05-12&quot;},{&quot;date&quot;:&quot;2016-08-04&quot;,&quot;payment_date&quot;:&quot;2016-08-11&quot;},{&quot;date&quot;:&quot;2016-11-03&quot;,&quot;payment_date&quot;:&quot;2016-11-10&quot;}],&quot;value&quot;:5575,&quot;year&quot;:2016},{&quot;count&quot;:4,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2017-02-09&quot;,&quot;payment_date&quot;:&quot;2017-02-16&quot;},{&quot;date&quot;:&quot;2017-05-11&quot;,&quot;payment_date&quot;:&quot;2017-05-18&quot;},{&quot;date&quot;:&quot;2017-08-10&quot;,&quot;payment_date&quot;:&quot;2017-08-17&quot;},{&quot;date&quot;:&quot;2017-11-10&quot;,&quot;payment_date&quot;:&quot;2017-11-16&quot;}],&quot;value&quot;:6150,&quot;year&quot;:2017},{&quot;count&quot;:4,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2018-02-09&quot;,&quot;payment_date&quot;:&quot;2018-02-15&quot;},{&quot;date&quot;:&quot;2018-05-11&quot;,&quot;payment_date&quot;:&quot;2018-05-17&quot;},{&quot;date&quot;:&quot;2018-08-10&quot;,&quot;payment_date&quot;:&quot;2018-08-16&quot;},{&quot;date&quot;:&quot;2018-11-08&quot;,&quot;payment_date&quot;:&quot;2018-11-15&quot;}],&quot;value&quot;:7050,&quot;year&quot;:2018},{&quot;count&quot;:4,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2019-02-08&quot;,&quot;payment_date&quot;:&quot;2019-02-14&quot;},{&quot;date&quot;:&quot;2019-05-10&quot;,&quot;payment_date&quot;:&quot;2019-05-16&quot;},{&quot;date&quot;:&quot;2019-08-09&quot;,&quot;payment_date&quot;:&quot;2019-08-15&quot;},{&quot;date&quot;:&quot;2019-11-07&quot;,&quot;payment_date&quot;:&quot;2019-11-14&quot;}],&quot;value&quot;:7600,&quot;year&quot;:2019},{&quot;count&quot;:4,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2020-02-07&quot;,&quot;payment_date&quot;:&quot;2020-02-13&quot;},{&quot;date&quot;:&quot;2020-05-08&quot;,&quot;payment_date&quot;:&quot;2020-05-14&quot;},{&quot;date&quot;:&quot;2020-08-07&quot;,&quot;payment_date&quot;:&quot;2020-08-13&quot;},{&quot;date&quot;:&quot;2020-11-06&quot;,&quot;payment_date&quot;:&quot;2020-11-12&quot;}],&quot;value&quot;:8075,&quot;year&quot;:2020},{&quot;count&quot;:4,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2021-02-05&quot;,&quot;payment_date&quot;:&quot;2021-02-11&quot;},{&quot;date&quot;:&quot;2021-05-07&quot;,&quot;payment_date&quot;:&quot;2021-05-13&quot;},{&quot;date&quot;:&quot;2021-08-06&quot;,&quot;payment_date&quot;:&quot;2021-08-12&quot;},{&quot;date&quot;:&quot;2021-11-05&quot;,&quot;payment_date&quot;:&quot;2021-11-11&quot;}],&quot;value&quot;:8650,&quot;year&quot;:2021},{&quot;count&quot;:4,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2022-02-04&quot;,&quot;payment_date&quot;:&quot;2022-02-10&quot;},{&quot;date&quot;:&quot;2022-05-06&quot;,&quot;payment_date&quot;:&quot;2022-05-12&quot;},{&quot;date&quot;:&quot;2022-08-05&quot;,&quot;payment_date&quot;:&quot;2022-08-11&quot;},{&quot;date&quot;:&quot;2022-11-04&quot;,&quot;payment_date&quot;:&quot;2022-11-10&quot;}],&quot;value&quot;:9100,&quot;year&quot;:2022}]" data-graph-projected="[{&quot;count&quot;:2,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2012-08-09&quot;,&quot;payment_date&quot;:&quot;2012-08-16&quot;},{&quot;date&quot;:&quot;2012-11-07&quot;,&quot;payment_date&quot;:&quot;2012-11-15&quot;}],&quot;value&quot;:1892,&quot;year&quot;:2012},{&quot;count&quot;:4,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2013-02-07&quot;,&quot;payment_date&quot;:&quot;2013-02-14&quot;},{&quot;date&quot;:&quot;2013-05-09&quot;,&quot;payment_date&quot;:&quot;2013-05-16&quot;},{&quot;date&quot;:&quot;2013-08-08&quot;,&quot;payment_date&quot;:&quot;2013-08-15&quot;},{&quot;date&quot;:&quot;2013-11-06&quot;,&quot;payment_date&quot;:&quot;2013-11-14&quot;}],&quot;value&quot;:4213,&quot;year&quot;:2013},{&quot;count&quot;:4,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2014-02-06&quot;,&quot;payment_date&quot;:&quot;2014-02-13&quot;},{&quot;date&quot;:&quot;2014-05-08&quot;,&quot;payment_date&quot;:&quot;2014-05-15&quot;},{&quot;date&quot;:&quot;2014-08-07&quot;,&quot;payment_date&quot;:&quot;2014-08-14&quot;},{&quot;date&quot;:&quot;2014-11-06&quot;,&quot;payment_date&quot;:&quot;2014-11-13&quot;}],&quot;value&quot;:4614,&quot;year&quot;:2014},{&quot;count&quot;:4,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2015-02-05&quot;,&quot;payment_date&quot;:&quot;2015-02-12&quot;},{&quot;date&quot;:&quot;2015-05-07&quot;,&quot;payment_date&quot;:&quot;2015-05-14&quot;},{&quot;date&quot;:&quot;2015-08-06&quot;,&quot;payment_date&quot;:&quot;2015-08-13&quot;},{&quot;date&quot;:&quot;2015-11-05&quot;,&quot;payment_date&quot;:&quot;2015-11-12&quot;}],&quot;value&quot;:5075,&quot;year&quot;:2015},{&quot;count&quot;:4,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2016-02-04&quot;,&quot;payment_date&quot;:&quot;2016-02-11&quot;},{&quot;date&quot;:&quot;2016-05-05&quot;,&quot;payment_date&quot;:&quot;2016-05-12&quot;},{&quot;date&quot;:&quot;2016-08-04&quot;,&quot;payment_date&quot;:&quot;2016-08-11&quot;},{&quot;date&quot;:&quot;2016-11-03&quot;,&quot;payment_date&quot;:&quot;2016-11-10&quot;}],&quot;value&quot;:5575,&quot;year&quot;:2016},{&quot;count&quot;:4,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2017-02-09&quot;,&quot;payment_date&quot;:&quot;2017-02-16&quot;},{&quot;date&quot;:&quot;2017-05-11&quot;,&quot;payment_date&quot;:&quot;2017-05-18&quot;},{&quot;date&quot;:&quot;2017-08-10&quot;,&quot;payment_date&quot;:&quot;2017-08-17&quot;},{&quot;date&quot;:&quot;2017-11-10&quot;,&quot;payment_date&quot;:&quot;2017-11-16&quot;}],&quot;value&quot;:6150,&quot;year&quot;:2017},{&quot;count&quot;:4,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2018-02-09&quot;,&quot;payment_date&quot;:&quot;2018-02-15&quot;},{&quot;date&quot;:&quot;2018-05-11&quot;,&quot;payment_date&quot;:&quot;2018-05-17&quot;},{&quot;date&quot;:&quot;2018-08-10&quot;,&quot;payment_date&quot;:&quot;2018-08-16&quot;},{&quot;date&quot;:&quot;2018-11-08&quot;,&quot;payment_date&quot;:&quot;2018-11-15&quot;}],&quot;value&quot;:7050,&quot;year&quot;:2018},{&quot;count&quot;:4,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2019-02-08&quot;,&quot;payment_date&quot;:&quot;2019-02-14&quot;},{&quot;date&quot;:&quot;2019-05-10&quot;,&quot;payment_date&quot;:&quot;2019-05-16&quot;},{&quot;date&quot;:&quot;2019-08-09&quot;,&quot;payment_date&quot;:&quot;2019-08-15&quot;},{&quot;date&quot;:&quot;2019-11-07&quot;,&quot;payment_date&quot;:&quot;2019-11-14&quot;}],&quot;value&quot;:7600,&quot;year&quot;:2019},{&quot;count&quot;:4,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2020-02-07&quot;,&quot;payment_date&quot;:&quot;2020-02-13&quot;},{&quot;date&quot;:&quot;2020-05-08&quot;,&quot;payment_date&quot;:&quot;2020-05-14&quot;},{&quot;date&quot;:&quot;2020-08-07&quot;,&quot;payment_date&quot;:&quot;2020-08-13&quot;},{&quot;date&quot;:&quot;2020-11-06&quot;,&quot;payment_date&quot;:&quot;2020-11-12&quot;}],&quot;value&quot;:8075,&quot;year&quot;:2020},{&quot;count&quot;:4,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2021-02-05&quot;,&quot;payment_date&quot;:&quot;2021-02-11&quot;},{&quot;date&quot;:&quot;2021-05-07&quot;,&quot;payment_date&quot;:&quot;2021-05-13&quot;},{&quot;date&quot;:&quot;2021-08-06&quot;,&quot;payment_date&quot;:&quot;2021-08-12&quot;},{&quot;date&quot;:&quot;2021-11-05&quot;,&quot;payment_date&quot;:&quot;2021-11-11&quot;}],&quot;value&quot;:8650,&quot;year&quot;:2021},{&quot;count&quot;:4,&quot;dividends&quot;:[{&quot;date&quot;:&quot;2022-02-04&quot;,&quot;payment_date&quot;:&quot;2022-02-10&quot;},{&quot;date&quot;:&quot;2022-05-06&quot;,&quot;payment_date&quot;:&quot;2022-05-12&quot;},{&quot;date&quot;:&quot;2022-08-05&quot;,&quot;payment_date&quot;:&quot;2022-08-11&quot;},{&quot;date&quot;:&quot;2022-11-04&quot;,&quot;payment_date&quot;:&quot;2022-11-10&quot;}],&quot;value&quot;:9100,&quot;year&quot;:2022},{&quot;value&quot;:9200,&quot;year&quot;:2023}]" data-currency="$" class="h-80 lg:h-128">
+</canvas>
+</div>
+<div class="stats-display">
+<div class="stats-display-item border-gray-200">
+<figure class="stats-display-icon" style="background-image: url(/images/stats-icons/globe.svg)">
+</figure>
+<div class="text-left">
+<h6 class="stats-display-title">
+Uninter. Dividend
+</h6>
+<p class="stats-display-text">
+11 years
+</p>
+</div>
+</div>
+<div class="stats-display-item border-gray-200" data-tooltip-template="latest-dividends-month-template">
+<figure class="stats-display-icon" style="background-image: url(/images/stats-icons/globe.svg)">
+</figure>
+<div class="text-left">
+<h6 class="stats-display-title">Frequency</h6>
+<p class="stats-display-text">
+4x / year
+</p>
+</div>
+</div>
+<div id="latest-dividends-month-template" class="hidden">
+<strong>
+Dividends in 2022
+</strong>
+<br>
+February, May, August, November
+<br>
+<br>
+<strong>
+Dividends in 2021
+</strong>
+<br>
+February, May, August, November
+</div>
+<div class="stats-display-item border-gray-200">
+<figure class="stats-display-icon" style="background-image: url(/images/stats-icons/globe.svg)">
+</figure>
+<div class="text-left">
+<h6 class="stats-display-title">
+Forward Annual Amount
+</h6>
+<p class="stats-display-text">
+$0.92
+</p>
+</div>
+</div>
+<div class="stats-display-item border-transparent">
+<figure class="stats-display-icon" style="background-image: url(/images/stats-icons/globe.svg)">
+</figure>
+<div class="text-left">
+<h6 class="stats-display-title">
+Ex-dividend
+</h6>
+<p class="stats-display-text">
+2/10/2023
+</p>
+</div>
+</div>
+</div>
+<div>
+<div class="relative flex justify-center z-10 mt-4">
+<span class="absolute left-0 top-1/2 transform -translate-y-1/2 w-full bg-gray-200" style="height: 1px; z-index: -1"></span>
+<a phx-click="read_more" phx-target="3" class="font-medium leading-none inline-flex justify-center items-center text-sm transition duration-300 border bg-white text-black border-gray-300 hover:bg-gray-200 active:bg-gray-300 px-4 rounded-full cursor-pointer js-read-more-btn">
+<div class="mr-2"><span class="text-xl font-bold text-gray-300">+</span></div>
+<span class="py-3">
+Dividends details
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="mb-8" id="outstandingShares">
+<div class="flex items-center border-b border-gray-200 pb-4 mb-4">
+<img class="mr-3" src="https://cdn.moning.co/icons/growth.svg" alt="growth">
+<h4 class="text-lg font-medium text-gray-900">
+Number of Outstanding Shares
+</h4>
+</div>
+<div>
+<canvas id="outstandingSharesChart" phx-hook="StockPriceGraph" data-graph="[{&quot;x&quot;:&quot;2013-01-01&quot;,&quot;y&quot;:25240656000},{&quot;x&quot;:&quot;2014-01-01&quot;,&quot;y&quot;:23527212000},{&quot;x&quot;:&quot;2015-01-01&quot;,&quot;y&quot;:22376508000},{&quot;x&quot;:&quot;2016-01-01&quot;,&quot;y&quot;:21311980000},{&quot;x&quot;:&quot;2017-01-01&quot;,&quot;y&quot;:20631148000},{&quot;x&quot;:&quot;2018-01-01&quot;,&quot;y&quot;:19093008000},{&quot;x&quot;:&quot;2019-01-01&quot;,&quot;y&quot;:17818416000},{&quot;x&quot;:&quot;2020-01-01&quot;,&quot;y&quot;:17113688000},{&quot;x&quot;:&quot;2021-01-01&quot;,&quot;y&quot;:16519291000},{&quot;x&quot;:&quot;2022-01-01&quot;,&quot;y&quot;:15955718000}]" data-time-unit="year" data-time-unit-format="yyyy" data-locale="en" class="h-80 lg:h-80">
+</canvas>
+</div>
+</div>
+<div class="mb-8" id="financials">
+<div class="flex items-center border-b border-gray-200 pb-4 mb-4">
+<img class="mr-3" src="https://cdn.moning.co/icons/financials.svg" alt="financials">
+<h4 class="text-lg font-medium text-gray-900">
+Financials
+</h4>
+</div>
+<div class="grid md:grid-cols-2 grid-cols-1 gap-4">
+<div class="w-full h-60">
+<canvas id="totalRevenueChart" phx-hook="StockBarGraph" data-graph="[{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:170910.0,&quot;year&quot;:2013},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:182795.0,&quot;year&quot;:2014},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:233715.0,&quot;year&quot;:2015},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:215639.0,&quot;year&quot;:2016},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:229234.0,&quot;year&quot;:2017},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:265595.0,&quot;year&quot;:2018},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:260174.0,&quot;year&quot;:2019},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:274515.0,&quot;year&quot;:2020},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:365817.0,&quot;year&quot;:2021},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:394328.0,&quot;year&quot;:2022}]" data-currency="$" data-label="Sales" data-after-unit="M">
+</canvas>
+</div>
+<div class="w-full h-60">
+<canvas id="FCFPerShareChart" phx-hook="StockBarGraph" data-graph="[{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:1.77,&quot;year&quot;:2013},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:2.12,&quot;year&quot;:2014},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:3.12,&quot;year&quot;:2015},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:2.45,&quot;year&quot;:2016},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:2.46,&quot;year&quot;:2017},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:3.36,&quot;year&quot;:2018},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:3.31,&quot;year&quot;:2019},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:4.29,&quot;year&quot;:2020},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:5.63,&quot;year&quot;:2021},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:6.98,&quot;year&quot;:2022}]" data-currency="$" data-label="Free Cash Flow per share">
+</canvas>
+</div>
+<div class="w-full h-60">
+<canvas id="EPSChart" phx-hook="StockBarGraph" data-graph="[{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:1.415,&quot;year&quot;:2013},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:1.6075,&quot;year&quot;:2014},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:2.3,&quot;year&quot;:2015},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:2.0675,&quot;year&quot;:2016},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:2.3,&quot;year&quot;:2017},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:2.97,&quot;year&quot;:2018},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:2.98,&quot;year&quot;:2019},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:3.27,&quot;year&quot;:2020},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:5.62,&quot;year&quot;:2021},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:6.11,&quot;year&quot;:2022},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:1.88,&quot;year&quot;:2022}]" data-currency="$" data-label="Earnings Per Share">
+</canvas>
+</div>
+</div>
+</div>
+<div class="mb-8" id="yearOverYear">
+<div class="flex items-center border-b border-gray-200 pb-4 mb-4">
+<img class="mr-3" src="https://cdn.moning.co/icons/stats.svg" alt="stats">
+<h4 class="text-lg font-medium text-gray-900">
+Year-over-Year growth
+</h4>
+</div>
+<div class="grid md:grid-cols-2 grid-cols-1 gap-4">
+<div class="w-full h-60">
+<canvas id="yoyRevenueChart" phx-hook="StockBarGraph" data-graph="[{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:7.0,&quot;year&quot;:2014},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:27.9,&quot;year&quot;:2015},{&quot;color&quot;:&quot;rgba(255, 99, 132, 0.7)&quot;,&quot;value&quot;:-7.7,&quot;year&quot;:2016},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:6.3,&quot;year&quot;:2017},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:15.9,&quot;year&quot;:2018},{&quot;color&quot;:&quot;rgba(255, 99, 132, 0.7)&quot;,&quot;value&quot;:-2.0,&quot;year&quot;:2019},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:5.5,&quot;year&quot;:2020},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:33.3,&quot;year&quot;:2021},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:7.8,&quot;year&quot;:2022}]" data-currency="" data-label="Sales growth" data-after-unit="%">
+</canvas>
+</div>
+<div class="w-full h-60">
+<canvas id="yoyFCFPerShareChart" phx-hook="StockBarGraph" data-graph="[{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:19.8,&quot;year&quot;:2014},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:47.2,&quot;year&quot;:2015},{&quot;color&quot;:&quot;rgba(255, 99, 132, 0.7)&quot;,&quot;value&quot;:-21.5,&quot;year&quot;:2016},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:0.4,&quot;year&quot;:2017},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:36.6,&quot;year&quot;:2018},{&quot;color&quot;:&quot;rgba(255, 99, 132, 0.7)&quot;,&quot;value&quot;:-1.5,&quot;year&quot;:2019},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:29.6,&quot;year&quot;:2020},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:31.2,&quot;year&quot;:2021},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:24.0,&quot;year&quot;:2022}]" data-currency="" data-label="FCF growth" data-after-unit="%">
+</canvas>
+</div>
+<div class="w-full h-60">
+<canvas id="yoyEPSChart" phx-hook="StockBarGraph" data-graph="[{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:13.6,&quot;year&quot;:2014},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:43.1,&quot;year&quot;:2015},{&quot;color&quot;:&quot;rgba(255, 99, 132, 0.7)&quot;,&quot;value&quot;:-10.1,&quot;year&quot;:2016},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:11.2,&quot;year&quot;:2017},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:29.1,&quot;year&quot;:2018},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:0.3,&quot;year&quot;:2019},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:9.7,&quot;year&quot;:2020},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:71.9,&quot;year&quot;:2021},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:8.7,&quot;year&quot;:2022},{&quot;color&quot;:&quot;rgba(255, 99, 132, 0.7)&quot;,&quot;value&quot;:-69.2,&quot;year&quot;:2022}]" data-currency="" data-label="EPS growth" data-after-unit="%">
+</canvas>
+</div>
+</div>
+</div>
+<div class="mb-8" id="profitability">
+<div class="flex items-center border-b border-gray-200 pb-4 mb-4">
+<img class="mr-3" src="https://cdn.moning.co/icons/check.svg" alt="check">
+<h4 class="text-lg font-medium text-gray-900">
+Profitability
+</h4>
+</div>
+<div class="grid md:grid-cols-2 grid-cols-1 gap-4">
+<div class="w-full h-60">
+<canvas id="operatingMarginChart" phx-hook="StockBarGraph" data-graph="[{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:28.7,&quot;year&quot;:2013},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:28.7,&quot;year&quot;:2014},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:30.5,&quot;year&quot;:2015},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:27.8,&quot;year&quot;:2016},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:26.8,&quot;year&quot;:2017},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:26.7,&quot;year&quot;:2018},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:24.6,&quot;year&quot;:2019},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:24.1,&quot;year&quot;:2020},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:29.8,&quot;year&quot;:2021},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:30.3,&quot;year&quot;:2022}]" data-currency="" data-label="Operating Margin" data-after-unit="%">
+</canvas>
+</div>
+<div class="w-full h-60">
+<canvas id="netMarginChart" phx-hook="StockBarGraph" data-graph="[{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:21.7,&quot;year&quot;:2013},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:21.6,&quot;year&quot;:2014},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:22.8,&quot;year&quot;:2015},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:21.2,&quot;year&quot;:2016},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:21.1,&quot;year&quot;:2017},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:22.4,&quot;year&quot;:2018},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:21.2,&quot;year&quot;:2019},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:20.9,&quot;year&quot;:2020},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:25.9,&quot;year&quot;:2021},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:25.3,&quot;year&quot;:2022}]" data-currency="" data-label="Net Margin" data-after-unit="%">
+</canvas>
+</div>
+<div class="w-full h-60">
+<canvas id="returnOnEquityChart" phx-hook="StockBarGraph" data-graph="[{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:30.0,&quot;year&quot;:2013},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:35.4,&quot;year&quot;:2014},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:44.7,&quot;year&quot;:2015},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:35.6,&quot;year&quot;:2016},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:36.1,&quot;year&quot;:2017},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:55.6,&quot;year&quot;:2018},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:61.1,&quot;year&quot;:2019},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:87.9,&quot;year&quot;:2020},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:150.1,&quot;year&quot;:2021},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:197.0,&quot;year&quot;:2022}]" data-currency="" data-label="Return on equity" data-after-unit="%">
+</canvas>
+</div>
+</div>
+</div>
+<div class="mb-8" id="health">
+<div class="flex items-center border-b border-gray-200 pb-4 mb-4">
+<img class="mr-3" src="https://cdn.moning.co/icons/heart.svg" alt="heart">
+<h4 class="text-lg font-medium text-gray-900">
+Health
+</h4>
+</div>
+<div class="grid md:grid-cols-2 grid-cols-1 gap-4">
+<div class="w-full h-60">
+<canvas id="earningsPayoutRatioChart" phx-hook="StockBarGraph" data-graph="[{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:29.77,&quot;year&quot;:2013},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:28.7,&quot;year&quot;:2014},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:22.07,&quot;year&quot;:2015},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:26.96,&quot;year&quot;:2016},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:26.74,&quot;year&quot;:2017},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:23.74,&quot;year&quot;:2018},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:25.5,&quot;year&quot;:2019},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:24.69,&quot;year&quot;:2020},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:15.39,&quot;year&quot;:2021},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:14.89,&quot;year&quot;:2022},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:48.4,&quot;year&quot;:2022}]" data-currency="" data-label="Earnings Payout Ratio" data-after-unit="%">
+</canvas>
+</div>
+<div class="w-full h-60">
+<canvas id="freeCashFlowPayoutRatioChart" phx-hook="StockBarGraph" data-graph="[{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:23.8,&quot;year&quot;:2013},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:21.76,&quot;year&quot;:2014},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:16.27,&quot;year&quot;:2015},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:22.76,&quot;year&quot;:2016},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:25.0,&quot;year&quot;:2017},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:20.98,&quot;year&quot;:2018},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:22.96,&quot;year&quot;:2019},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:18.82,&quot;year&quot;:2020},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:15.36,&quot;year&quot;:2021},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:13.04,&quot;year&quot;:2022}]" data-currency="" data-label="Free Cash Flow Payout Ratio" data-after-unit="%">
+</canvas>
+</div>
+<div class="w-full h-60">
+<canvas id="interestCoverageChart" phx-hook="StockBarGraph" data-graph="[{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:360.29,&quot;year&quot;:2013},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:136.73,&quot;year&quot;:2014},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:97.18,&quot;year&quot;:2015},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:41.23,&quot;year&quot;:2016},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:26.41,&quot;year&quot;:2017},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:21.88,&quot;year&quot;:2018},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:17.88,&quot;year&quot;:2019},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:23.07,&quot;year&quot;:2020},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:41.19,&quot;year&quot;:2021},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:40.75,&quot;year&quot;:2022}]" data-currency="" data-label="Interest Coverage" data-after-unit="">
+</canvas>
+</div>
+<div class="w-full h-60">
+<canvas id="debtCapitalChart" phx-hook="StockBarGraph" data-graph="[{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:0.58,&quot;year&quot;:2014},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:0.47,&quot;year&quot;:2015},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:0.68,&quot;year&quot;:2016},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:0.86,&quot;year&quot;:2017},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:1.07,&quot;year&quot;:2018},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:1.19,&quot;year&quot;:2019},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:1.72,&quot;year&quot;:2020},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:1.98,&quot;year&quot;:2021},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:2.39,&quot;year&quot;:2022}]" data-currency="" data-label="Debt / Equity Ratio" data-after-unit="">
+</canvas>
+</div>
+<div class="w-full h-60">
+<canvas id="debtEbitdaChart" phx-hook="StockBarGraph" data-graph="[{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:1.25,&quot;year&quot;:2017},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:1.02,&quot;year&quot;:2018},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:0.72,&quot;year&quot;:2019},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:0.92,&quot;year&quot;:2020},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:0.73,&quot;year&quot;:2021},{&quot;color&quot;:&quot;#2197f3&quot;,&quot;value&quot;:0.72,&quot;year&quot;:2022}]" data-currency="" data-label="Debt / EBITDA" data-after-unit="">
+</canvas>
+</div>
+</div>
+</div>
+<div class="mb-8" id="valuation">
+<div class="flex items-center border-b border-gray-200 pb-4 mb-4">
+<img class="mr-3" src="https://cdn.moning.co/icons/stats.svg" alt="stats">
+<h4 class="text-lg font-medium text-gray-900">
+Valuation
+</h4>
+</div>
+<div class="table-wrap mb-4">
+<table class="table-table table-fixed">
+<tr class="table-head-tr text-center">
+<th class="table-th text-left">
+Price to Book
+</th>
+<th class="table-th">Payout ratio</th>
+<th class="table-th">PE Ratio</th>
+<th class="table-th">PEG Ratio</th>
+</tr>
+<tr class="table-body-tr text-center">
+<td class="table-td text-left">
+<span class="text-sm text-gray-500">
+44.63
+</span>
+</td>
+<td class="table-td">
+<span class="text-sm text-gray-500">
+16 %
+</span>
+</td>
+<td class="table-td">
+<span class="text-sm text-gray-500">
+24.68 x
+</span>
+</td>
+<td class="table-td">
+<span class="text-sm text-gray-500">
+2.75
+</span>
+</td>
+ </tr>
+</table>
+</div>
+<div class="table-wrap">
+<table class="table-table table-fixed">
+<tr class="table-head-tr text-center">
+<th class="table-th text-left">
+Price to Sales
+</th>
+<th class="table-th">Price / FCF</th>
+<th class="table-th">
+Enterprise Value Revenue
+</th>
+</tr>
+<tr class="table-body-tr text-center">
+<td class="table-td text-left">
+<span class="text-sm text-gray-500">
+6.06
+</span>
+</td>
+<td class="table-td">
+<span class="text-sm text-gray-500">
+22.04
+</span>
+</td>
+<td class="table-td">
+<span class="text-sm text-gray-500">
+5.92
+</span>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="mb-8" id="stock_news">
+<div class="flex items-center border-b border-gray-200 pb-4 mb-4">
+<img class="mr-3" src="https://cdn.moning.co/icons/clock.svg" alt="clock">
+<h4 class="text-lg font-medium text-gray-900">
+News
+</h4>
+</div>
+<div class="w-full mx-1.5">
+<a class="flex items-center group mb-3 pb-3 border-b" id="stock_news_2ad9d122-8782-4ad1-90d3-fa3f3e3851c6" href="/stock_news/2ad9d122-8782-4ad1-90d3-fa3f3e3851c6" target="_blank">
+<img class="rounded-md object-cover mr-3 h-24 w-24" src="https://media.zenfs.com/en/zacks.com/c35b98fa9bbd08ef2db417cae984bd68">
+<div class="flex-1">
+<h2 class="font-bold text-lg leading-tight group-hover:underline mb-2">
+Time to Buy Apple, Alphabet, or Amazon Stock for More Upside?
+</h2>
+<div class="flex items-center">
+<div class="text-xs">
+<span class="text-sky-500">
+3/6/2023
+</span>
+</div>
+</div>
+</div>
+</a>
+<a class="flex items-center group mb-3 pb-3 border-b" id="stock_news_f1158201-158a-4f24-8f74-f52031dfb595" href="/stock_news/f1158201-158a-4f24-8f74-f52031dfb595" target="_blank">
+<img class="rounded-md object-cover mr-3 h-24 w-24" src="https://media.zenfs.com/en/insidermonkey.com/0ccf9150fdcc64b52bd8670c737e393d">
+<div class="flex-1">
+<h2 class="font-bold text-lg leading-tight group-hover:underline mb-2">
+10 Hot Growth Stocks To Buy Now
+</h2>
+<div class="flex items-center">
+<div class="text-xs">
+<span class="text-sky-500">
+3/6/2023
+</span>
+</div>
+</div>
+</div>
+</a>
+<a class="flex items-center group mb-3 pb-3 border-b" id="stock_news_1dae0f33-ec89-4b76-bf18-098d281f0760" href="/stock_news/1dae0f33-ec89-4b76-bf18-098d281f0760" target="_blank">
+<img class="rounded-md object-cover mr-3 h-24 w-24" src="https://media.zenfs.com/en/zacks.com/3cb5117fc22f5e37890d1860dcd61f9f">
+<div class="flex-1">
+<h2 class="font-bold text-lg leading-tight group-hover:underline mb-2">
+Apple (AAPL) Outpaces Stock Market Gains: What You Should Know
+</h2>
+<div class="flex items-center">
+<div class="text-xs">
+<span class="text-sky-500">
+3/6/2023
+</span>
+</div>
+</div>
+</div>
+</a>
+<a class="flex items-center group mb-3 pb-3 border-b" id="stock_news_a4b5b435-2b65-41de-bc5d-a7c21bb449a9" href="/stock_news/a4b5b435-2b65-41de-bc5d-a7c21bb449a9" target="_blank">
+<img class="rounded-md object-cover mr-3 h-24 w-24" src="https://s.yimg.com/ny/api/res/1.2/xu8AQjIwYYKkFzHhLH9cTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/3d993a70-bc6e-11ed-bbef-3561a14a5f9d">
+<div class="flex-1">
+<h2 class="font-bold text-lg leading-tight group-hover:underline mb-2">
+Apple stock boosted amid Goldman Sachs’ first Buy rating for iPhone maker in 6 years
+</h2>
+<div class="flex items-center">
+<div class="text-xs">
+<span class="text-sky-500">
+3/6/2023
+</span>
+</div>
+</div>
+</div>
+</a>
+<a class="flex items-center group mb-3 pb-3 border-b" id="stock_news_3c25fa71-56e5-4870-9524-80c46311f504" href="/stock_news/3c25fa71-56e5-4870-9524-80c46311f504" target="_blank">
+<img class="rounded-md object-cover mr-3 h-24 w-24" src="https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png">
+<div class="flex-1">
+<h2 class="font-bold text-lg leading-tight group-hover:underline mb-2">
+US STOCKS-S&amp;P 500 barely gains ahead of Powell testimony, jobs report
+</h2>
+<div class="flex items-center">
+<div class="text-xs">
+<span class="text-sky-500">
+3/6/2023
+</span>
+</div>
+</div>
+</div>
+</a>
+<a class="flex items-center group mb-3 pb-3 border-b" id="stock_news_b0341d7d-6080-4b43-8ea1-9270091da206" href="/stock_news/b0341d7d-6080-4b43-8ea1-9270091da206" target="_blank">
+<img class="rounded-md object-cover mr-3 h-24 w-24" src="https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png">
+<div class="flex-1">
+<h2 class="font-bold text-lg leading-tight group-hover:underline mb-2">
+US STOCKS-Wall St pares gains with Powell testimony, upcoming data in focus
+</h2>
+<div class="flex items-center">
+<div class="text-xs">
+<span class="text-sky-500">
+3/6/2023
+</span>
+</div>
+</div>
+</div>
+</a>
+<a class="flex items-center group mb-3 pb-3 border-b" id="stock_news_c21fa1e3-557e-4b25-8f6d-f893db4c6875" href="/stock_news/c21fa1e3-557e-4b25-8f6d-f893db4c6875" target="_blank">
+<img class="rounded-md object-cover mr-3 h-24 w-24" src="https://s.yimg.com/ny/api/res/1.2/Zr6rY7LfJNjUXdj2mtOaog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch.com/e3532fc432b54e1359bc2aa0cb97daca">
+<div class="flex-1">
+<h2 class="font-bold text-lg leading-tight group-hover:underline mb-2">
+Apple’s stock rises again after Goldman says to buy, citing nearly 30% upside potential
+</h2>
+<div class="flex items-center">
+<div class="text-xs">
+<span class="text-sky-500">
+3/6/2023
+</span>
+</div>
+</div>
+</div>
+</a>
+<a class="flex items-center group mb-3 pb-3 border-b" id="stock_news_906f13bb-ee5e-4964-86b3-7c70f9ef1aa3" href="/stock_news/906f13bb-ee5e-4964-86b3-7c70f9ef1aa3" target="_blank">
+<img class="rounded-md object-cover mr-3 h-24 w-24" src="https://s.yimg.com/ny/api/res/1.2/Rteem8tVknJ1h.EEYjicIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/a53a9df0-6155-11ed-bd1b-b0029a02c734">
+<div class="flex-1">
+<h2 class="font-bold text-lg leading-tight group-hover:underline mb-2">
+Why Apple’s headset could seriously boost the flagging VR market
+</h2>
+<div class="flex items-center">
+<div class="text-xs">
+<span class="text-sky-500">
+3/6/2023
+</span>
+</div>
+</div>
+</div>
+</a>
+<a class="flex items-center group mb-3 pb-3 border-b" id="stock_news_88db8303-e84b-4c33-9c8f-4c203829e18a" href="/stock_news/88db8303-e84b-4c33-9c8f-4c203829e18a" target="_blank">
+<img class="rounded-md object-cover mr-3 h-24 w-24" src="https://s.yimg.com/ny/api/res/1.2/j8d2nwuIQXTL7xnADeCuag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/e24a45b0-bc4f-11ed-a7d7-66612a1d89d1">
+<div class="flex-1">
+<h2 class="font-bold text-lg leading-tight group-hover:underline mb-2">
+Apple stock jumps as Goldman Sachs puts Buy rating on stock
+</h2>
+<div class="flex items-center">
+<div class="text-xs">
+<span class="text-sky-500">
+3/6/2023
+</span>
+</div>
+</div>
+</div>
+</a>
+<a class="flex items-center group mb-3 pb-3 border-b" id="stock_news_aebf557e-244b-4c62-99db-a4bc443c7808" href="/stock_news/aebf557e-244b-4c62-99db-a4bc443c7808" target="_blank">
+<img class="rounded-md object-cover mr-3 h-24 w-24" src="https://s.yimg.com/ny/api/res/1.2/LcOb.FMDuJbHliL1vpYNWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTI-/https://media.zenfs.com/en/motleyfool.com/ce7de8c8e2c1154e108a6b4705237460">
+<div class="flex-1">
+<h2 class="font-bold text-lg leading-tight group-hover:underline mb-2">
+How Cirrus Logic Stock Gained 13.7% Last Month
+</h2>
+<div class="flex items-center">
+<div class="text-xs">
+<span class="text-sky-500">
+3/6/2023
+</span>
+</div>
+</div>
+</div>
+</a>
+<a class="flex items-center group mb-3 pb-3 border-b" id="stock_news_46f09a52-9b33-4a6b-89ea-9756c52f21e5" href="/stock_news/46f09a52-9b33-4a6b-89ea-9756c52f21e5" target="_blank">
+<img class="rounded-md object-cover mr-3 h-24 w-24" src="https://s.yimg.com/ny/api/res/1.2/qY5DON6EPmLLMGXypuViMA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/thestreet.com/6c878b4a5a7e12729fbcef19d28206c0">
+<div class="flex-1">
+<h2 class="font-bold text-lg leading-tight group-hover:underline mb-2">
+Can Apple Stock Break Out as It Nears Key Resistance Area?
+</h2>
+<div class="flex items-center">
+<div class="text-xs">
+<span class="text-sky-500">
+3/6/2023
+</span>
+</div>
+</div>
+</div>
+</a>
+<a class="flex items-center group mb-3 pb-3 border-b" id="stock_news_78227061-41a5-4832-aa98-9866aed50a66" href="/stock_news/78227061-41a5-4832-aa98-9866aed50a66" target="_blank">
+<img class="rounded-md object-cover mr-3 h-24 w-24" src="https://media.zenfs.com/en/fox_business_text_367/858b7de755d191a1c62d854937e472aa">
+<div class="flex-1">
+<h2 class="font-bold text-lg leading-tight group-hover:underline mb-2">
+Why Apple stock can rise over 30%: Goldman Sachs initiates first Buy since 2017
+</h2>
+<div class="flex items-center">
+<div class="text-xs">
+<span class="text-sky-500">
+3/6/2023
+</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="mb-96">&nbsp;</div>
+<div class="mb-32">&nbsp;</div>
+</div>
+</div>
+<div class="xl:w-4/12 w-full xl:pl-5">
+<div class="my-positions js-my-positions " id="stock_portfolio_positions_component">
+<div class="my-positions-overlay js-my-positions-overlay" phx-click="hide-mobile" phx-target="#stock_portfolio_positions_component">
+</div>
+<div class="my-positions-container">
+<div class="my-positions-header">
+<h4 class="my-positions-title">My positions</h4>
+<a phx-click="hide-mobile" phx-target="#stock_portfolio_positions_component" class="cursor-pointer h-3.5 w-3.5 text-gray-800 my-positions-close js-my-positions-close">
+<svg class="stroke-current" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1 13L13 1M1 1L13 13" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+</path>
+</svg>
+</a>
+</div>
+<div class="bg-gray-50 rounded-md p-8 flex flex-wrap justify-between items-center mb-8">
+<div class="mr-4 lg:max-w-lg w-full lg:mb-0 mb-4">
+<h3 class="text-2xl font-extrabold text-sky-500 text-center mb-2">
+Create a portfolio &amp; add this stock
+</h3>
+<p class="leading-6 text-gray-500 mt-4 text-justify">
+Add this stock and others to your own virtual portfolio and get personalised information : total annual dividends &amp; total value, sectors breakdown, etc.
+</p>
+</div>
+<a href="/auth" class="m-auto mt-4 font-medium leading-none inline-flex justify-center items-center text-sm transition duration-300 border bg-sky-500 text-white border-transparent hover:bg-sky-400 active:bg-sky-600 px-4 rounded-md">
+<span class="py-3">Create My Portfolio</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="xl:hidden flex justify-center fixed bottom-0 left-0 w-full bg-white shadow-top px-4 py-3 z-10 js-my-positions-footer">
+<button phx-click="show-mobile" phx-target="#stock_portfolio_positions_component" class="font-medium leading-none inline-flex justify-center items-center text-sm transition duration-300 border bg-sky-500 text-white border-transparent hover:bg-sky-400 active:bg-sky-600 px-4 rounded-md w-full max-w-xs">
+<span class="py-3">My positions</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="mt-auto">
+<div class="bg-gray-900 py-10">
+<div class="container px-4 flex  lg:flex-row justify-between items-center flex-col flex-wrap">
+<img class="lg:mb-0 mb-4" src="https://cdn.moning.co/icons/logo-blue.svg" alt="logo">
+<div class="flex flex-wrap items-center md:flex-row flex-col">
+<span class="text-white text-sm md:mr-4">
+<a class="text-white text-sm md:mr-4 md:mb-0 mb-2" href="/privacy">Privacy Policy</a> • <a class="text-white text-sm md:ml-4 md:mb-0 mb-2" href="/terms">Terms and Conditions</a>
+</span>
+<span class="text-white text-sm">
+© Copyright 2020-2023 Epsylia OÜ - All rights reserved
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+
+          window.helpcrunchSettings = {
+            organization: 'moning',
+            appId: '6e6582d1-ec02-442a-9c19-57b3ce1f1311'
+          };
+
+      </script>
+<script type="text/javascript">
+        (function(w,d){
+          var hS=w.helpcrunchSettings;if(!hS||!hS.organization){return;}var widgetSrc='https://'+hS.organization+'.widget.helpcrunch.com/';w.HelpCrunch=function(){w.HelpCrunch.q.push(arguments)};w.HelpCrunch.q=[];function r(){if (d.querySelector('script[src="' + widgetSrc + '"')) { return; }var s=d.createElement('script');s.async=1;s.type='text/javascript';s.src=widgetSrc;(d.body||d.head).appendChild(s);}if(d.readyState === 'complete'||hS.loadImmediately){r();} else if(w.attachEvent){w.attachEvent('onload',r)}else{w.addEventListener('load',r,false)}
+
+        })(window, document)
+      </script>
+</body>
+</html>

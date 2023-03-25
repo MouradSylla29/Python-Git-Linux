@@ -1,0 +1,8 @@
+touch .sensible_adresses
+touch .sentible_passwords
+echo 'Have a good day' > gentle_script.sh
+sha256sum gentle_script.sh > log_sha
+cat log_sha
+cat gentle_script.sh
+rm .sensible*
+sha256sum gentle_script.sh > log_sha

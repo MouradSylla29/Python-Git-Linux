@@ -1,0 +1,9 @@
+cat /etc/os-release
+ps -ef
+top
+lscpu | grep cache
+df -h
+du -h
+cat /proc/mounts
+dmesg | grep usb
+hostname

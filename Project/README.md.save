@@ -1,0 +1,21 @@
+#Mes Dashboard
+
+J'ai effectué deux dashbord.
+
+## Apple stock price
+
+Le premier j'ai reussi à récupérer toutes les données historiques de APPlE.
+Seul problème, les prix ne se mettent pas à jour tous les jours.
+Il s'agit de ce site : https://moning.co/stocks/AAPL.US
+
+Voici l'URL pour y accéder avec le port 8050 : http://35.180.65.112:8050/
+
+
+## Monero Prices
+
+Le deuxieme je n'ai pas réussi à récupérer les données historiques mais j'ai pu avoir le dernier prix à l'instant t.
+Ainsi, le graph du Dashbord se constitue au fur et à mesure que le scrapping s'exécute et rempli petit le Bash.
+Il s'agit de ce site : https://api.coingecko.com/api/v3/simple/price?ids=monero&vs_currencies=usd
+
+
+Voici l'URL pour y accéder avec le port 8085 : http://35.180.65.112:80/

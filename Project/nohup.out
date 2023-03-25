@@ -1,0 +1,59 @@
+/home/admin/Project/dashboard.py:2: UserWarning: 
+The dash_core_components package is deprecated. Please replace
+`import dash_core_components as dcc` with `from dash import dcc`
+  import dash_core_components as dcc
+/home/admin/Project/dashboard.py:3: UserWarning: 
+The dash_html_components package is deprecated. Please replace
+`import dash_html_components as html` with `from dash import html`
+  import dash_html_components as html
+Dash is running on http://0.0.0.0:8080/
+
+ * Serving Flask app 'dashboard'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.26.4.8:8080
+Press CTRL+C to quit
+/home/admin/Project/dashboard.py:2: UserWarning: 
+The dash_core_components package is deprecated. Please replace
+`import dash_core_components as dcc` with `from dash import dcc`
+  import dash_core_components as dcc
+/home/admin/Project/dashboard.py:3: UserWarning: 
+The dash_html_components package is deprecated. Please replace
+`import dash_html_components as html` with `from dash import html`
+  import dash_html_components as html
+Dash is running on http://0.0.0.0:8080/
+
+ * Serving Flask app 'dashboard'
+ * Debug mode: off
+Address already in use
+Port 8080 is in use by another program. Either identify and stop that program, or start the server with a different port.
+/home/admin/Project/dashboard.py:2: UserWarning: 
+The dash_core_components package is deprecated. Please replace
+`import dash_core_components as dcc` with `from dash import dcc`
+  import dash_core_components as dcc
+/home/admin/Project/dashboard.py:3: UserWarning: 
+The dash_html_components package is deprecated. Please replace
+`import dash_html_components as html` with `from dash import html`
+  import dash_html_components as html
+Dash is running on http://0.0.0.0:8080/
+
+ * Serving Flask app 'dashboard'
+ * Debug mode: off
+Address already in use
+Port 8080 is in use by another program. Either identify and stop that program, or start the server with a different port.
+/home/admin/Project/dashboard.py:2: UserWarning: 
+The dash_core_components package is deprecated. Please replace
+`import dash_core_components as dcc` with `from dash import dcc`
+  import dash_core_components as dcc
+/home/admin/Project/dashboard.py:3: UserWarning: 
+The dash_html_components package is deprecated. Please replace
+`import dash_html_components as html` with `from dash import html`
+  import dash_html_components as html
+Dash is running on http://0.0.0.0:8080/
+
+ * Serving Flask app 'dashboard'
+ * Debug mode: off
+Address already in use
+Port 8080 is in use by another program. Either identify and stop that program, or start the server with a different port.
