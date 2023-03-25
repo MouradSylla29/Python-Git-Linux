@@ -1051,3 +1051,11 @@ git add .
 git commit -m "update"
 git push
 screen
+ls
+nano dashboard_monero.py
+gunicorn dashboard_monero:server -b 0.0.0.0:8085
+gunicorn dashboard:server -b 0.0.0.0:8050
+ls
+nano dashboard.py
+gunicorn dashboard:server -b 0.0.0.0:8050
+screen
