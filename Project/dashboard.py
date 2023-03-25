@@ -3,7 +3,7 @@ from dash import Dash, dcc, html
 from dash.dependencies import Input, Output
 import time
 
-data = pd.read_csv("price_data.csv")
+data = pd.read_csv("/home/admin/price_data.csv")
 data.columns = ["date", "price"]
 
 app = Dash(__name__)

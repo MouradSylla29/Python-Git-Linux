@@ -3,7 +3,7 @@ from dash import Dash, dcc, html
 from dash.dependencies import Input, Output
 import time
 
-name = "monero_prices.csv"
+name = "/home/admin/monero_prices.csv"
 data = pd.read_csv(name)
 data.columns = ["date", "price"]
 
