@@ -1,38 +1,29 @@
 import pandas as pd
 from dash import Dash, dcc, html
 from dash.dependencies import Input, Output
+import dash_bootstrap_components as dbc
 import time
 
 name = "/home/admin/monero_prices.csv"
 data = pd.read_csv(name)
 data.columns = ["date", "price"]
 
-app = Dash(__name__)
+app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+
 server = app.server
 
 app.layout = html.Div(
     children=[
-        html.H1(children="Hello Dash"),
+        html.H1(children="ESILV - Python/Git/Linux"),
         html.Div(
-            children="Dash: A web application framework for Python."
+            children="From Mourad Sylla"
         ),
         dcc.Graph(
-            id="example-graph",
-            figure={
-                "data": [
-                    {
-                        "x": data["date"],
-                        "y": data["price"],
-                        "type": "line",
-
-                    },
-                ],
-                "layout": {"title": "Apple Stock Price"},
-            },
+            id="example-graph"
         ),
         html.Hr(),
         html.H3("24-Hour Metrics"),
-        html.Table(
+        dbc.Table(
             [
                 html.Thead(
                     html.Tr(
@@ -70,7 +61,12 @@ app.layout = html.Div(
                         ),
                     ]
                 ),
-            ]
+            ],
+            bordered=True,
+            hover=True,
+            responsive=True,
+            striped=True,
+            dark=True
         ),
         dcc.Interval(
             id='interval-component',
@@ -109,16 +105,20 @@ def update_graph(n):
     data = pd.read_csv(name)
     data.columns = ["date", "price"]
 
+    current_price = data["price"].iloc[-1]
+
     return {
         "data": [
             {
                 "x": data["date"],
                 "y": data["price"],
                 "type": "line",
-
             },
         ],
-        "layout": {"title": "Monero Price"},
+        "layout": {
+            "title": f"Monero (XMR) Price - Current Price: ${current_price:.2f}",
+            "title_font": {"size": 24}
+        },
     }
 
 if __name__ == "__main__":

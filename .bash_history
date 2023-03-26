@@ -1059,3 +1059,86 @@ ls
 nano dashboard.py
 gunicorn dashboard:server -b 0.0.0.0:8050
 screen
+pip3 install dash pandas gunicorn
+sudo apt-get install screen
+cd Project
+screen
+screen 
+screen
+nano README.md
+cd ..
+git add ;
+git add .
+git commit -"updates"
+git commit -m "updates"
+git push
+cd Project
+ls
+./scrape_monero.sh
+cd ..
+ls
+monero_prices.csv
+nano monero_prices.csv
+crontab-e
+contab -e
+crontab -e
+cd Project
+nano dashboard_monero.py
+cd ..
+ls
+pwd
+cd Project
+nano dashboard_monero.py
+python3 dashboard_monero.py
+cd ..
+nano monero_prices.csv
+nano price_data.csv
+cd Project
+nano dashboard.py
+cd ..
+git add .
+git status
+git commit -m "updates"
+git push
+cd Projet
+cd Project
+nano dashboard_monero.py
+python3 dashboard_monero.py
+screen -ls
+kill PID
+screen -X -S 19479 quit
+screen -X -S 19408 quit
+screen -X -S 19318 quit
+screen -ls
+cd ..
+git add .
+git status
+cd Project
+ls
+cd __pycache__
+ls
+cd ..
+git commit 
+git commit -m"update"
+git push*
+git push
+python3 dashboard_monero.py
+cd Project
+python3 dashboard_monero.py
+ls
+nano README.md
+cd ..
+git add .
+git commit -m"updates"
+git push
+cd Project
+nano README.md
+cd ..
+ls
+cd TD_4
+ls
+nano README.md
+cd ..
+git add .
+git commit -m"updates"
+git push
