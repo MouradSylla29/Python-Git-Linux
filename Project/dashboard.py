@@ -11,9 +11,9 @@ server = app.server
 
 app.layout = html.Div(
     children=[
-        html.H1(children="Hello Dash"),
+        html.H1(children="ESILV - Python/Git/Linux (Dashboard test)"),
         html.Div(
-            children="Dash: A web application framework for Python."
+            children="From Mourad Sylla"
         ),
         dcc.Graph(
             id="example-graph",
